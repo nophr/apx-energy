@@ -66,7 +66,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section id="projects" className="bg-brand-50 py-20 px-4 sm:px-6">
+    <section id="projects" className="bg-brand-50 py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-700 text-xs font-bold tracking-widest uppercase mb-3">
           Active Project Pipeline

@@ -27,6 +27,16 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Land anchored sections flush under the fixed 80px (5rem) navbar so no sliver
+   of the previous section shows through. The section's own py-20 padding still
+   provides the gap between the menu bar and the heading text.
+   min-height: 100vh guarantees every section is at least a full viewport tall,
+   so even the last sections have enough room to scroll up to the top. */
+section[id] {
+  scroll-margin-top: 5rem;
+  min-height: 100vh;
+}
+
 body {
   font-family: var(--font-sans);
   background-color: var(--color-brand-50);

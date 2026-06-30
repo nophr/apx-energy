@@ -30,7 +30,7 @@ const markets = [
 
 export default function Markets() {
   return (
-    <section className="bg-white py-20 px-4 sm:px-6">
+    <section className="bg-white py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-700 text-xs font-bold tracking-widest uppercase mb-3">
           Our Markets

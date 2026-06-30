@@ -1,19 +1,19 @@
-import Icon from './Icon'
+import { Flame, Building2, Mountain, Cpu, Droplet, Zap } from 'lucide-react'
 import BrandLogo from './BrandLogo'
 import { clients } from '../data/brands'
 
 const sectors = [
-  { icon: 'flame', name: 'Oil & Gas / Petrochemical' },
-  { icon: 'building', name: 'Cement / Construction' },
-  { icon: 'mountain', name: 'Mining / Metallurgy' },
-  { icon: 'cpu', name: 'Semiconductor / High-Tech' },
-  { icon: 'droplet', name: 'Water / Infrastructure' },
-  { icon: 'zap', name: 'New Energy / Power Grid' },
+  { Icon: Flame, name: 'Oil & Gas / Petrochemical' },
+  { Icon: Building2, name: 'Cement / Construction' },
+  { Icon: Mountain, name: 'Mining / Metallurgy' },
+  { Icon: Cpu, name: 'Semiconductor / High-Tech' },
+  { Icon: Droplet, name: 'Water / Infrastructure' },
+  { Icon: Zap, name: 'New Energy / Power Grid' },
 ]
 
 export default function Clients() {
   return (
-    <section className="bg-brand-50 py-20 px-4 sm:px-6">
+    <section className="bg-brand-50 py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-700 text-xs font-bold tracking-widest uppercase mb-3">
           Technology Partner Track Record
@@ -34,7 +34,7 @@ export default function Clients() {
               key={s.name}
               className="bg-white border border-brand-200 text-ink-700 text-xs font-semibold px-3 py-2 rounded-full flex items-center gap-1.5"
             >
-              <Icon name={s.icon} className="w-4 h-4 text-brand-700" /> {s.name}
+              <s.Icon className="w-4 h-4 text-brand-700" strokeWidth={1.75} /> {s.name}
             </span>
           ))}
         </div>

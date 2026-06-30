@@ -1,7 +1,6 @@
 // Brand directory for the logo walls.
-// - name:   text shown as fallback when no logo file is present
-// - slug:   logo filename base, resolved from src/assets/logos/<slug>.(svg|png|webp)
-// - domain: source domain used by scripts/fetch-logos.mjs (null = no auto-fetch, text only)
+// - name: text shown as fallback when no logo file is present
+// - slug: logo filename base, resolved from src/assets/logos/<slug>.(svg|png|webp)
 
 // Order mirrors the company-profile deck's logo wall (4 cols x 8 rows = 32).
 // Logos are sliced from that deck image into src/assets/logos/<slug>.png.
@@ -41,11 +40,11 @@ export const clients = [
 ]
 
 export const certs = [
-  { name: 'TÜV CE', slug: 'tuv', domain: 'tuv.com' },
-  { name: 'ISO 13485', slug: 'iso', domain: 'iso.org' },
-  { name: 'IEC Member', slug: 'iec', domain: 'iec.ch' },
-  { name: 'IEEE Member', slug: 'ieee', domain: 'ieee.org' },
-  { name: 'CMMI', slug: 'cmmi', domain: 'cmmiinstitute.com' },
-  { name: 'SGS', slug: 'sgs', domain: 'sgs.com' },
-  { name: 'CNAS', slug: 'cnas', domain: 'cnas.org.cn' },
+  { name: 'TÜV CE', slug: 'tuv' },
+  { name: 'ISO 13485', slug: 'iso' },
+  { name: 'IEC Member', slug: 'iec' },
+  { name: 'IEEE Member', slug: 'ieee' },
+  { name: 'CMMI', slug: 'cmmi' },
+  { name: 'SGS', slug: 'sgs' },
+  { name: 'CNAS', slug: 'cnas' },
 ]

@@ -12,7 +12,6 @@ import WhyAPX from './components/WhyAPX'
 import Markets from './components/Markets'
 import Clients from './components/Clients'
 import Contact from './components/Contact'
-import Footer from './components/Footer'
 
 export default function App() {
   const root = useRef(null)
@@ -35,7 +34,6 @@ export default function App() {
         <Clients />
         <Contact />
       </main>
-      <Footer />
     </div>
   )
 }

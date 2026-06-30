@@ -1,11 +1,13 @@
 import { useState, useEffect } from 'react'
 import Logo from './Logo'
 
+// Ordered to match the page's scroll order so the active underline
+// progresses left-to-right as you scroll down.
 const links = [
   { label: 'About', href: '#about' },
   { label: 'Technology', href: '#sanhe' },
-  { label: 'Solutions', href: '#solutions' },
   { label: 'Projects', href: '#projects' },
+  { label: 'Solutions', href: '#solutions' },
   { label: 'Why APX', href: '#why-apx' },
   { label: 'Contact', href: '#contact' },
 ]
@@ -13,10 +15,37 @@ const links = [
 export default function Navbar() {
   const [open, setOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
+  const [active, setActive] = useState('')
 
+  // Scroll-spy: highlight the link for the section currently at the top of the
+  // viewport (just under the navbar), so the underline tracks the section start.
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 20)
-    window.addEventListener('scroll', onScroll)
+    const ids = links.map(l => l.href.slice(1))
+    // Activation line sits just below the navbar landing zone (scroll-margin-top: 6.5rem)
+    const LINE = 120
+
+    const onScroll = () => {
+      setScrolled(window.scrollY > 20)
+
+      // Pick the section whose top is closest to (at or just above) the line —
+      // i.e. the one currently occupying the top of the viewport. Order-independent,
+      // so it's correct even when the nav order differs from the document order.
+      let current = ''
+      let bestTop = -Infinity
+      for (const id of ids) {
+        const el = document.getElementById(id)
+        if (!el) continue
+        const top = el.getBoundingClientRect().top
+        if (top <= LINE && top > bestTop) {
+          bestTop = top
+          current = id
+        }
+      }
+      setActive(current)
+    }
+
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
@@ -33,15 +62,26 @@ export default function Navbar() {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-6">
-          {links.map(l => (
-            <a
-              key={l.href}
-              href={l.href}
-              className="text-sm font-semibold text-ink-700 hover:text-brand-700 transition-colors"
-            >
-              {l.label}
-            </a>
-          ))}
+          {links.map(l => {
+            const isActive = active === l.href.slice(1)
+            return (
+              <a
+                key={l.href}
+                href={l.href}
+                aria-current={isActive ? 'true' : undefined}
+                className={`relative py-1 text-sm font-semibold transition-colors ${
+                  isActive ? 'text-brand-700' : 'text-ink-700 hover:text-brand-700'
+                }`}
+              >
+                {l.label}
+                <span
+                  className={`absolute left-0 -bottom-0.5 h-0.5 rounded-full bg-brand-700 transition-all duration-300 ${
+                    isActive ? 'w-full' : 'w-0'
+                  }`}
+                />
+              </a>
+            )
+          })}
           <a
             href="#contact"
             className="ml-2 bg-brand-700 text-white text-sm font-bold px-4 py-2 rounded-lg hover:bg-brand-800 transition-colors"

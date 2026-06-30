@@ -1,18 +1,18 @@
-import Icon from './Icon'
+import { Shield, Building2, Globe } from 'lucide-react'
 
 const pillars = [
   {
-    icon: 'shield',
+    Icon: Shield,
     title: 'De-risked Technology',
     body: "Sanhe's products have been deployed across 4,000+ projects in the world's most demanding industrial environments — cement plants, oil refineries, offshore platforms, semiconductor fabrication facilities, and national power grids. APX brings proven technology to market, not experimental products.",
   },
   {
-    icon: 'building',
+    Icon: Building2,
     title: 'Fortune 500 Validated',
     body: 'Over 30 Fortune 500 clients including CNPC, Sinopec, CNOOC, BYD, Samsung E&A, ABB, BP, BASF, Linde, Sungrow, LONGi, and Canadian Solar. These companies conduct rigorous vendor qualification — Sanhe passed.',
   },
   {
-    icon: 'globe',
+    Icon: Globe,
     title: 'Globally Proven',
     body: 'Projects span 40+ countries across Asia, Africa, the Middle East, Europe, and the Americas. The same technology APX brings to Australia, Cambodia, and Vietnam has been operating reliably at scale for two decades.',
   },
@@ -20,7 +20,7 @@ const pillars = [
 
 export default function About() {
   return (
-    <section id="about" className="bg-white py-20 px-4 sm:px-6">
+    <section id="about" className="bg-white py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-700 text-xs font-bold tracking-widest uppercase mb-3">
           Who We Are
@@ -50,13 +50,13 @@ export default function About() {
         </div>
 
         <div className="grid sm:grid-cols-3 gap-6">
-          {pillars.map(p => (
-            <div key={p.title} className="bg-brand-50 border border-brand-200 rounded-2xl p-6">
+          {pillars.map(({ Icon, title, body }) => (
+            <div key={title} className="bg-brand-50 border border-brand-200 rounded-2xl p-6">
               <div className="w-11 h-11 rounded-xl bg-brand-100 text-brand-700 flex items-center justify-center mb-4">
-                <Icon name={p.icon} className="w-6 h-6" />
+                <Icon className="w-6 h-6" strokeWidth={1.75} />
               </div>
-              <h3 className="text-brand-950 text-base font-bold mb-3">{p.title}</h3>
-              <p className="text-ink-700 text-sm leading-relaxed">{p.body}</p>
+              <h3 className="text-brand-950 text-base font-bold mb-3">{title}</h3>
+              <p className="text-ink-700 text-sm leading-relaxed">{body}</p>
             </div>
           ))}
         </div>

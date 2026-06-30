@@ -1,8 +1,8 @@
-import Icon from './Icon'
+import { Leaf, Factory, House } from 'lucide-react'
 
 const pillars = [
   {
-    icon: 'leaf',
+    Icon: Leaf,
     title: 'Renewable Energy Projects',
     color: 'bg-brand-100',
     items: [
@@ -15,7 +15,7 @@ const pillars = [
     ],
   },
   {
-    icon: 'factory',
+    Icon: Factory,
     title: 'Commercial & Industrial',
     color: 'bg-teal/10',
     items: [
@@ -28,7 +28,7 @@ const pillars = [
     ],
   },
   {
-    icon: 'home',
+    Icon: House,
     title: 'Residential Energy Solutions',
     color: 'bg-gold/10',
     items: [
@@ -44,7 +44,7 @@ const pillars = [
 
 export default function BusinessPillars() {
   return (
-    <section className="bg-white py-20 px-4 sm:px-6">
+    <section className="bg-white py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-700 text-xs font-bold tracking-widest uppercase mb-3">
           Core Business Focus
@@ -61,7 +61,7 @@ export default function BusinessPillars() {
           {pillars.map(p => (
             <div key={p.title} className={`${p.color} rounded-2xl p-6 border border-brand-200`}>
               <div className="w-12 h-12 rounded-xl bg-white/70 text-brand-700 flex items-center justify-center mb-4">
-                <Icon name={p.icon} className="w-6 h-6" />
+                <p.Icon className="w-6 h-6" strokeWidth={1.75} />
               </div>
               <h3 className="text-brand-950 text-lg font-bold mb-4">{p.title}</h3>
               <ul className="space-y-2">

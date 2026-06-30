@@ -1,33 +1,33 @@
-import Icon from './Icon'
+import { KeyRound, HardHat, TrendingUp, Ruler, Leaf, CircleCheck } from 'lucide-react'
 
 const reasons = [
   {
-    icon: 'key',
+    Icon: KeyRound,
     title: 'Exclusive Distribution Rights',
     body: 'Sole international distribution rights for Sanhe Power Tech\'s full portfolio — direct access without intermediaries.',
   },
   {
-    icon: 'hardhat',
+    Icon: HardHat,
     title: 'Full EPC Turnkey Capability',
     body: 'Feasibility through construction, commissioning, and O&M — one accountable partner at any project scale.',
   },
   {
-    icon: 'trending',
+    Icon: TrendingUp,
     title: 'Fast-Growing, Experience-Backed',
     body: 'Rapid regional growth underpinned by Sanhe\'s 20+ years of completed projects at identical scale worldwide.',
   },
   {
-    icon: 'ruler',
+    Icon: Ruler,
     title: 'Any Scale, Any Application',
     body: 'From 291 kWp hotel systems to 300 MW solar farms — the same engineering rigour across every engagement.',
   },
   {
-    icon: 'leaf',
+    Icon: Leaf,
     title: 'Renewable-First Approach',
     body: 'Every project prioritises clean energy outcomes — minimising carbon emissions and maximising self-consumption.',
   },
   {
-    icon: 'check',
+    Icon: CircleCheck,
     title: 'International Standards Compliance',
     body: 'IEC & IEEE member, CE, CQC, SGS, GOST, CNAS — meeting grid and regulatory requirements across all markets.',
   },
@@ -35,7 +35,7 @@ const reasons = [
 
 export default function WhyAPX() {
   return (
-    <section id="why-apx" className="bg-brand-950 py-20 px-4 sm:px-6">
+    <section id="why-apx" className="bg-brand-950 py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-600 text-xs font-bold tracking-widest uppercase mb-3">
           Why Choose APX
@@ -52,7 +52,7 @@ export default function WhyAPX() {
           {reasons.map(r => (
             <div key={r.title} className="bg-white/5 border border-white/10 rounded-2xl p-6 hover:bg-white/8 transition-colors">
               <div className="w-11 h-11 rounded-xl bg-brand-600/15 text-brand-600 flex items-center justify-center mb-4">
-                <Icon name={r.icon} className="w-6 h-6" />
+                <r.Icon className="w-6 h-6" strokeWidth={1.75} />
               </div>
               <h3 className="text-white font-bold text-base mb-2">{r.title}</h3>
               <p className="text-brand-400 text-sm leading-relaxed">{r.body}</p>

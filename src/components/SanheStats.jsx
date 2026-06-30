@@ -14,7 +14,7 @@ const stats = [
 
 export default function SanheStats() {
   return (
-    <section id="sanhe" className="bg-brand-950 py-20 px-4 sm:px-6">
+    <section id="sanhe" className="bg-brand-950 py-12 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <p className="text-brand-600 text-xs font-bold tracking-widest uppercase mb-3">
           Our Technology Partner
