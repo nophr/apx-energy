@@ -1,0 +1,689 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "APX Energy Solutions" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "APX Energy Solutions" [ref=e7]:
+          - generic [ref=e11]: APX
+      - navigation [ref=e12]:
+        - link "About" [ref=e13] [cursor=pointer]:
+          - /url: "#about"
+        - link "Technology" [ref=e14] [cursor=pointer]:
+          - /url: "#sanhe"
+        - link "Solutions" [ref=e15] [cursor=pointer]:
+          - /url: "#solutions"
+        - link "Projects" [ref=e16] [cursor=pointer]:
+          - /url: "#projects"
+        - link "Why APX" [ref=e17] [cursor=pointer]:
+          - /url: "#why-apx"
+        - link "Contact" [ref=e18] [cursor=pointer]:
+          - /url: "#contact"
+        - link "Get in Touch" [ref=e19] [cursor=pointer]:
+          - /url: "#contact"
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e25]:
+        - paragraph [ref=e26]: Asia Pacific · Renewable Energy Solutions · Power Quality
+        - heading "Building Asia‑Pacific's Clean Energy Future" [level=1] [ref=e27]
+        - paragraph [ref=e28]: Turnkey renewable energy and power quality solutions — from residential rooftop solar to utility-scale power plants. One accountable partner across Australia, Cambodia, and Vietnam.
+        - generic [ref=e29]:
+          - link "Explore Our Solutions" [ref=e30] [cursor=pointer]:
+            - /url: "#about"
+          - link "Contact Us" [ref=e31] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e32]:
+          - generic [ref=e33]: Australia
+          - generic [ref=e34]: Cambodia
+          - generic [ref=e35]: Vietnam
+      - generic [ref=e36]:
+        - generic [ref=e37]: Scroll
+        - img [ref=e38]
+    - generic [ref=e41]:
+      - paragraph [ref=e42]: Who We Are
+      - heading "From Rooftop to Power Plant" [level=2] [ref=e43]
+      - paragraph [ref=e44]: APX Energy Solutions is a full-spectrum renewable energy company and the exclusive sole international distributor for Sanhe Power Tech's advanced power quality and clean energy technologies across Australia, Cambodia, and Vietnam.
+      - paragraph [ref=e45]: As a complete energy solutions provider, APX manages entire project lifecycles — from residential solar and home battery systems to large-scale solar power plants, wind farms, utility-scale battery energy storage systems (BESS), and zero-carbon microgrids. Clients receive a single point of accountability across all project phases.
+      - paragraph [ref=e46]: APX is fast-growing at the forefront of Asia-Pacific's energy transition — bringing together regional market access, direct distribution rights, and the full engineering depth of our global technology partner, Sanhe Power Tech.
+      - generic [ref=e47]: Exclusive distribution rights · Australia, Cambodia & Vietnam · Engineering solutions at any scale
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - img [ref=e51]
+          - heading "De-risked Technology" [level=3] [ref=e53]
+          - paragraph [ref=e54]: Sanhe's products have been deployed across 4,000+ projects in the world's most demanding industrial environments — cement plants, oil refineries, offshore platforms, semiconductor fabrication facilities, and national power grids. APX brings proven technology to market, not experimental products.
+        - generic [ref=e55]:
+          - img [ref=e57]
+          - heading "Fortune 500 Validated" [level=3] [ref=e61]
+          - paragraph [ref=e62]: Over 30 Fortune 500 clients including CNPC, Sinopec, CNOOC, BYD, Samsung E&A, ABB, BP, BASF, Linde, Sungrow, LONGi, and Canadian Solar. These companies conduct rigorous vendor qualification — Sanhe passed.
+        - generic [ref=e63]:
+          - img [ref=e65]
+          - heading "Globally Proven" [level=3] [ref=e68]
+          - paragraph [ref=e69]: Projects span 40+ countries across Asia, Africa, the Middle East, Europe, and the Americas. The same technology APX brings to Australia, Cambodia, and Vietnam has been operating reliably at scale for two decades.
+    - generic [ref=e71]:
+      - paragraph [ref=e72]: Our Technology Partner
+      - heading "Sanhe Power Tech" [level=2] [ref=e73]
+      - paragraph [ref=e74]: Founded 2002 · Shenzhen, China
+      - paragraph [ref=e75]: National High-Tech Enterprise · National 'Little Giant' Enterprise · IEC & IEEE Member · CMMI Certified
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - generic [ref=e78]: 4,000+
+          - generic [ref=e79]: Completed Projects
+        - generic [ref=e80]:
+          - generic [ref=e81]: 40+
+          - generic [ref=e82]: Countries
+        - generic [ref=e83]:
+          - generic [ref=e84]: 30+
+          - generic [ref=e85]: Fortune 500 Clients
+        - generic [ref=e86]:
+          - generic [ref=e87]: 20+
+          - generic [ref=e88]: Years in Operation
+        - generic [ref=e89]:
+          - generic [ref=e90]: 100+
+          - generic [ref=e91]: Patents, Copyrights & Standards
+        - generic [ref=e92]:
+          - generic [ref=e93]: 10%+
+          - generic [ref=e94]: Annual Revenue Reinvested in R&D
+        - generic [ref=e95]:
+          - generic [ref=e96]: 38%
+          - generic [ref=e97]: of All Staff Are R&D Personnel
+        - generic [ref=e98]:
+          - generic [ref=e99]: "#1"
+          - generic [ref=e100]: MV Power Quality Ranking (China)
+      - generic [ref=e101]:
+        - paragraph [ref=e102]: Certifications & Standards
+        - generic [ref=e103]:
+          - generic [ref=e105]: TÜV CE
+          - generic [ref=e106]:
+            - img "ISO 13485"
+          - generic [ref=e107]:
+            - img "IEC Member"
+          - generic [ref=e108]:
+            - img "IEEE Member"
+          - generic [ref=e110]: CMMI
+          - generic [ref=e111]:
+            - img "SGS"
+          - generic [ref=e113]: CNAS
+    - generic [ref=e115]:
+      - paragraph [ref=e116]: Core Business Focus
+      - heading "APX Three Pillars of Delivery" [level=2] [ref=e117]
+      - paragraph [ref=e118]: From individual households to utility-scale developers, APX delivers complete energy solutions across three verticals — with the same engineering rigour at every scale.
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - img [ref=e122]
+          - heading "Renewable Energy Projects" [level=3] [ref=e125]
+          - list [ref=e126]:
+            - listitem [ref=e127]:
+              - generic [ref=e128]: ▸
+              - text: Utility-scale solar power plants
+            - listitem [ref=e129]:
+              - generic [ref=e130]: ▸
+              - text: Wind turbine projects
+            - listitem [ref=e131]:
+              - generic [ref=e132]: ▸
+              - text: Floating solar (FPV) systems
+            - listitem [ref=e133]:
+              - generic [ref=e134]: ▸
+              - text: Hybrid solar + wind + storage
+            - listitem [ref=e135]:
+              - generic [ref=e136]: ▸
+              - text: Zero-carbon microgrid systems
+            - listitem [ref=e137]:
+              - generic [ref=e138]: ▸
+              - text: Green hydrogen production
+        - generic [ref=e139]:
+          - img [ref=e141]
+          - heading "Commercial & Industrial" [level=3] [ref=e144]
+          - list [ref=e145]:
+            - listitem [ref=e146]:
+              - generic [ref=e147]: ▸
+              - text: C&I solar + storage systems
+            - listitem [ref=e148]:
+              - generic [ref=e149]: ▸
+              - text: SEZ & industrial park microgrids
+            - listitem [ref=e150]:
+              - generic [ref=e151]: ▸
+              - text: Agri-solar systems
+            - listitem [ref=e152]:
+              - generic [ref=e153]: ▸
+              - text: Demand management & peak shaving
+            - listitem [ref=e154]:
+              - generic [ref=e155]: ▸
+              - text: Behind-the-meter BESS
+            - listitem [ref=e156]:
+              - generic [ref=e157]: ▸
+              - text: Smart energy management platforms
+        - generic [ref=e158]:
+          - img [ref=e160]
+          - heading "Residential Energy Solutions" [level=3] [ref=e164]
+          - list [ref=e165]:
+            - listitem [ref=e166]:
+              - generic [ref=e167]: ▸
+              - text: Rooftop solar PV systems
+            - listitem [ref=e168]:
+              - generic [ref=e169]: ▸
+              - text: Home battery storage (BESS)
+            - listitem [ref=e170]:
+              - generic [ref=e171]: ▸
+              - text: Hybrid inverter systems
+            - listitem [ref=e172]:
+              - generic [ref=e173]: ▸
+              - text: Off-grid & stackable battery packs
+            - listitem [ref=e174]:
+              - generic [ref=e175]: ▸
+              - text: Residential EV chargers
+            - listitem [ref=e176]:
+              - generic [ref=e177]: ▸
+              - text: Solar monitoring & management
+    - generic [ref=e179]:
+      - paragraph [ref=e180]: EPC Delivery Model
+      - heading "End-to-End Turnkey Project Delivery" [level=2] [ref=e181]
+      - paragraph [ref=e182]: APX manages every phase from initial feasibility through to engineering, procurement, construction, and long-term operations & maintenance. A single accountable partner, eliminating multi-contractor complexity.
+      - generic [ref=e183]:
+        - generic [ref=e184]:
+          - generic [ref=e185]: ›
+          - generic [ref=e186]: E
+          - heading "Engineering" [level=3] [ref=e187]
+          - list [ref=e188]:
+            - listitem [ref=e189]:
+              - generic [ref=e190]: ·
+              - text: Feasibility Studies
+            - listitem [ref=e191]:
+              - generic [ref=e192]: ·
+              - text: System Design
+            - listitem [ref=e193]:
+              - generic [ref=e194]: ·
+              - text: Technical Specifications
+            - listitem [ref=e195]:
+              - generic [ref=e196]: ·
+              - text: Energy Modelling
+        - generic [ref=e197]:
+          - generic [ref=e198]: ›
+          - generic [ref=e199]: P
+          - heading "Procurement" [level=3] [ref=e200]
+          - list [ref=e201]:
+            - listitem [ref=e202]:
+              - generic [ref=e203]: ·
+              - text: Equipment Supply
+            - listitem [ref=e204]:
+              - generic [ref=e205]: ·
+              - text: Vendor Management
+            - listitem [ref=e206]:
+              - generic [ref=e207]: ·
+              - text: Logistics
+            - listitem [ref=e208]:
+              - generic [ref=e209]: ·
+              - text: Quality Assurance
+        - generic [ref=e210]:
+          - generic [ref=e211]: ›
+          - generic [ref=e212]: C
+          - heading "Construction" [level=3] [ref=e213]
+          - list [ref=e214]:
+            - listitem [ref=e215]:
+              - generic [ref=e216]: ·
+              - text: Civil Works
+            - listitem [ref=e217]:
+              - generic [ref=e218]: ·
+              - text: Installation
+            - listitem [ref=e219]:
+              - generic [ref=e220]: ·
+              - text: Grid Connection
+            - listitem [ref=e221]:
+              - generic [ref=e222]: ·
+              - text: Commissioning
+        - generic [ref=e223]:
+          - generic [ref=e224]: O&M
+          - heading "Operations & Maintenance" [level=3] [ref=e225]
+          - list [ref=e226]:
+            - listitem [ref=e227]:
+              - generic [ref=e228]: ·
+              - text: Remote Monitoring
+            - listitem [ref=e229]:
+              - generic [ref=e230]: ·
+              - text: Preventive Maintenance
+            - listitem [ref=e231]:
+              - generic [ref=e232]: ·
+              - text: Performance Optimisation
+    - generic [ref=e234]:
+      - paragraph [ref=e235]: Active Project Pipeline
+      - heading "Featured Projects" [level=2] [ref=e236]
+      - paragraph [ref=e237]: Projects for which APX has provided engineering solutions and technical proposals — reflecting the scope and scale of work we engage across the region.
+      - generic [ref=e238]:
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - generic [ref=e241]: Vietnam
+            - generic [ref=e242]: In Development
+          - paragraph [ref=e243]: Solar + ESS · EPC
+          - heading "300 MW Solar + 30 MWh ESS" [level=3] [ref=e244]
+          - generic [ref=e245]:
+            - generic [ref=e246]:
+              - generic [ref=e247]: 300 MW
+              - generic [ref=e248]: Solar PV
+            - generic [ref=e249]:
+              - generic [ref=e250]: 30 MWh
+              - generic [ref=e251]: Energy Storage
+        - generic [ref=e252]:
+          - generic [ref=e253]:
+            - generic [ref=e254]: Vietnam
+            - generic [ref=e255]: In Development
+          - paragraph [ref=e256]: Standalone BESS · Grid
+          - heading "100 MW / 200 MWh BESS — Lang Son" [level=3] [ref=e257]
+          - generic [ref=e258]:
+            - generic [ref=e259]:
+              - generic [ref=e260]: 100 MW
+              - generic [ref=e261]: Power
+            - generic [ref=e262]:
+              - generic [ref=e263]: 200 MWh
+              - generic [ref=e264]: Capacity
+        - generic [ref=e265]:
+          - generic [ref=e266]:
+            - generic [ref=e267]: Vietnam
+            - generic [ref=e268]: In Development
+          - paragraph [ref=e269]: Floating Solar + ESS
+          - heading "30 MW Floating Solar + 3 MWh ESS" [level=3] [ref=e270]
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - generic [ref=e273]: 30 MW
+              - generic [ref=e274]: Floating PV
+            - generic [ref=e275]:
+              - generic [ref=e276]: 3 MWh
+              - generic [ref=e277]: ESS
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - generic [ref=e280]: Vietnam
+            - generic [ref=e281]: In Development
+          - paragraph [ref=e282]: Wind Energy · EPC
+          - heading "42 MW Wind Turbine — Pleiku" [level=3] [ref=e283]
+          - generic [ref=e284]:
+            - generic [ref=e285]:
+              - generic [ref=e286]: 42 MW
+              - generic [ref=e287]: Wind Capacity
+            - generic [ref=e288]:
+              - generic [ref=e289]: Onshore
+              - generic [ref=e290]: Type
+        - generic [ref=e291]:
+          - generic [ref=e292]:
+            - generic [ref=e293]: Vietnam
+            - generic [ref=e294]: In Development
+          - paragraph [ref=e295]: Standalone BESS
+          - heading "100 MW / 200 MWh BESS — Pleiku" [level=3] [ref=e296]
+          - generic [ref=e297]:
+            - generic [ref=e298]:
+              - generic [ref=e299]: 100 MW
+              - generic [ref=e300]: Power
+            - generic [ref=e301]:
+              - generic [ref=e302]: 200 MWh
+              - generic [ref=e303]: Capacity
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - generic [ref=e306]: Cambodia
+            - generic [ref=e307]: In Development
+          - paragraph [ref=e308]: C&I · Solar + ESS
+          - heading "1,056 kWp Solar PV + 1,205 kWh ESS" [level=3] [ref=e309]
+          - generic [ref=e310]:
+            - generic [ref=e311]:
+              - generic [ref=e312]: 1,056 kWp
+              - generic [ref=e313]: Solar PV
+            - generic [ref=e314]:
+              - generic [ref=e315]: 1,205 kWh
+              - generic [ref=e316]: ESS
+        - generic [ref=e317]:
+          - generic [ref=e318]:
+            - generic [ref=e319]: Cambodia
+            - generic [ref=e320]: In Development
+          - paragraph [ref=e321]: Microgrid · Agri-Solar
+          - heading "3 MW Solar + 10 MW ESS Microgrid — Kandal" [level=3] [ref=e322]
+          - generic [ref=e323]:
+            - generic [ref=e324]:
+              - generic [ref=e325]: 3 MW
+              - generic [ref=e326]: Solar PV
+            - generic [ref=e327]:
+              - generic [ref=e328]: 10 MW
+              - generic [ref=e329]: ESS
+        - generic [ref=e330]:
+          - generic [ref=e331]:
+            - generic [ref=e332]: Cambodia
+            - generic [ref=e333]: In Development
+          - paragraph [ref=e334]: Hospitality · Solar + ESS
+          - heading "291 kWp Solar + 522 kWh ESS — Koh Kong" [level=3] [ref=e335]
+          - generic [ref=e336]:
+            - generic [ref=e337]:
+              - generic [ref=e338]: 291 kWp
+              - generic [ref=e339]: Solar PV
+            - generic [ref=e340]:
+              - generic [ref=e341]: 522 kWh
+              - generic [ref=e342]: ESS
+        - generic [ref=e343]:
+          - generic [ref=e344]:
+            - generic [ref=e345]: Cambodia
+            - generic [ref=e346]: In Development
+          - paragraph [ref=e347]: SEZ Industrial · Solar + ESS
+          - heading "15 MW Solar + 30 MWh ESS — SEZ" [level=3] [ref=e348]
+          - generic [ref=e349]:
+            - generic [ref=e350]:
+              - generic [ref=e351]: 15 MW
+              - generic [ref=e352]: Solar PV
+            - generic [ref=e353]:
+              - generic [ref=e354]: 30 MWh
+              - generic [ref=e355]: ESS
+    - generic [ref=e357]:
+      - paragraph [ref=e358]: Solutions Portfolio
+      - heading "Full Spectrum of Renewable Energy & Power Systems" [level=2] [ref=e359]
+      - paragraph [ref=e360]: Every technology in our portfolio is backed by Sanhe Power Tech's two decades of manufacturing excellence and deployed globally across the most demanding industrial sectors.
+      - generic [ref=e361]:
+        - generic [ref=e362]:
+          - generic [ref=e363]:
+            - img [ref=e365]
+            - generic [ref=e368]: Large Scale
+          - heading "Solar Power Plants" [level=3] [ref=e369]
+          - list [ref=e370]:
+            - listitem [ref=e371]:
+              - generic [ref=e372]: ▸
+              - text: Ground-mount PV
+            - listitem [ref=e373]:
+              - generic [ref=e374]: ▸
+              - text: Floating Solar (FPV)
+            - listitem [ref=e375]:
+              - generic [ref=e376]: ▸
+              - text: Rooftop Commercial
+            - listitem [ref=e377]:
+              - generic [ref=e378]: ▸
+              - text: Agri-voltaics
+            - listitem [ref=e379]:
+              - generic [ref=e380]: ▸
+              - text: Grid-tie Systems
+        - generic [ref=e381]:
+          - generic [ref=e382]:
+            - img [ref=e384]
+            - generic [ref=e388]: Large Scale
+          - heading "Wind Energy Projects" [level=3] [ref=e389]
+          - list [ref=e390]:
+            - listitem [ref=e391]:
+              - generic [ref=e392]: ▸
+              - text: Onshore Wind Turbines
+            - listitem [ref=e393]:
+              - generic [ref=e394]: ▸
+              - text: Small Wind Systems
+            - listitem [ref=e395]:
+              - generic [ref=e396]: ▸
+              - text: Wind + Solar Hybrid
+            - listitem [ref=e397]:
+              - generic [ref=e398]: ▸
+              - text: Wind + BESS
+        - generic [ref=e399]:
+          - generic [ref=e400]:
+            - img [ref=e402]
+            - generic [ref=e405]: Storage
+          - heading "Battery Energy Storage" [level=3] [ref=e406]
+          - list [ref=e407]:
+            - listitem [ref=e408]:
+              - generic [ref=e409]: ▸
+              - text: Utility-scale BESS
+            - listitem [ref=e410]:
+              - generic [ref=e411]: ▸
+              - text: C&I ESS Cabinets
+            - listitem [ref=e412]:
+              - generic [ref=e413]: ▸
+              - text: Prefab Containers
+            - listitem [ref=e414]:
+              - generic [ref=e415]: ▸
+              - text: Residential Batteries
+            - listitem [ref=e416]:
+              - generic [ref=e417]: ▸
+              - text: Standalone BESS
+        - generic [ref=e418]:
+          - generic [ref=e419]:
+            - img [ref=e421]
+            - generic [ref=e423]: Systems
+          - heading "Microgrid & New Energy" [level=3] [ref=e424]
+          - list [ref=e425]:
+            - listitem [ref=e426]:
+              - generic [ref=e427]: ▸
+              - text: Zero-Carbon Microgrids
+            - listitem [ref=e428]:
+              - generic [ref=e429]: ▸
+              - text: Island Microgrids
+            - listitem [ref=e430]:
+              - generic [ref=e431]: ▸
+              - text: Solar-BESS-Diesel Hybrid
+            - listitem [ref=e432]:
+              - generic [ref=e433]: ▸
+              - text: Agri-Solar Microgrids
+            - listitem [ref=e434]:
+              - generic [ref=e435]: ▸
+              - text: Green Hydrogen Production
+        - generic [ref=e436]:
+          - generic [ref=e437]:
+            - img [ref=e439]
+            - generic [ref=e441]: Power Quality
+          - heading "Power Quality & Grid" [level=3] [ref=e442]
+          - list [ref=e443]:
+            - listitem [ref=e444]:
+              - generic [ref=e445]: ▸
+              - text: APF / SVG / DVR / HPF
+            - listitem [ref=e446]:
+              - generic [ref=e447]: ▸
+              - text: Harmonic Filtering
+            - listitem [ref=e448]:
+              - generic [ref=e449]: ▸
+              - text: Power Factor Correction
+            - listitem [ref=e450]:
+              - generic [ref=e451]: ▸
+              - text: LV & MV (up to 35 kV)
+            - listitem [ref=e452]:
+              - generic [ref=e453]: ▸
+              - text: Voltage Stabilisation
+        - generic [ref=e454]:
+          - generic [ref=e455]:
+            - img [ref=e457]
+            - generic [ref=e460]: Smart Energy
+          - heading "Energy Management" [level=3] [ref=e461]
+          - list [ref=e462]:
+            - listitem [ref=e463]:
+              - generic [ref=e464]: ▸
+              - text: EMOS Platform
+            - listitem [ref=e465]:
+              - generic [ref=e466]: ▸
+              - text: Demand Response
+            - listitem [ref=e467]:
+              - generic [ref=e468]: ▸
+              - text: Carbon Tracking
+            - listitem [ref=e469]:
+              - generic [ref=e470]: ▸
+              - text: Remote Monitoring
+            - listitem [ref=e471]:
+              - generic [ref=e472]: ▸
+              - text: Dual-Carbon Strategy
+    - generic [ref=e474]:
+      - paragraph [ref=e475]: Why Choose APX
+      - heading "Why APX Energy Solutions" [level=2] [ref=e476]
+      - paragraph [ref=e477]: We combine exclusive technology access, full-cycle project capability, and deep regional market knowledge to deliver clean energy outcomes at any scale.
+      - generic [ref=e478]:
+        - generic [ref=e479]:
+          - img [ref=e481]
+          - heading "Exclusive Distribution Rights" [level=3] [ref=e485]
+          - paragraph [ref=e486]: Sole international distribution rights for Sanhe Power Tech's full portfolio — direct access without intermediaries.
+        - generic [ref=e487]:
+          - img [ref=e489]
+          - heading "Full EPC Turnkey Capability" [level=3] [ref=e492]
+          - paragraph [ref=e493]: Feasibility through construction, commissioning, and O&M — one accountable partner at any project scale.
+        - generic [ref=e494]:
+          - img [ref=e496]
+          - heading "Fast-Growing, Experience-Backed" [level=3] [ref=e499]
+          - paragraph [ref=e500]: Rapid regional growth underpinned by Sanhe's 20+ years of completed projects at identical scale worldwide.
+        - generic [ref=e501]:
+          - img [ref=e503]
+          - heading "Any Scale, Any Application" [level=3] [ref=e506]
+          - paragraph [ref=e507]: From 291 kWp hotel systems to 300 MW solar farms — the same engineering rigour across every engagement.
+        - generic [ref=e508]:
+          - img [ref=e510]
+          - heading "Renewable-First Approach" [level=3] [ref=e513]
+          - paragraph [ref=e514]: Every project prioritises clean energy outcomes — minimising carbon emissions and maximising self-consumption.
+        - generic [ref=e515]:
+          - img [ref=e517]
+          - heading "International Standards Compliance" [level=3] [ref=e520]
+          - paragraph [ref=e521]: IEC & IEEE member, CE, CQC, SGS, GOST, CNAS — meeting grid and regulatory requirements across all markets.
+    - generic [ref=e523]:
+      - paragraph [ref=e524]: Our Markets
+      - heading "Operating Across Asia-Pacific" [level=2] [ref=e525]
+      - paragraph [ref=e526]: APX Energy Solutions operates across three markets in the Asia-Pacific region, with a growing pipeline of utility-scale and commercial projects.
+      - generic [ref=e527]:
+        - generic [ref=e528]:
+          - generic [ref=e529]: AU
+          - generic [ref=e530]:
+            - heading "Australia" [level=3] [ref=e531]
+            - generic [ref=e532]: Active Market
+          - paragraph [ref=e533]: Net-zero aligned solar, wind, and BESS deployments alongside C&I renewable systems and power quality solutions.
+        - generic [ref=e534]:
+          - generic [ref=e535]: KH
+          - generic [ref=e536]:
+            - heading "Cambodia" [level=3] [ref=e537]
+            - generic [ref=e538]: 3 Active Proposals
+          - paragraph [ref=e539]: SEZ industrial, hospitality, and agri-solar microgrid projects across Kandal and Koh Kong provinces.
+        - generic [ref=e540]:
+          - generic [ref=e541]: VN
+          - generic [ref=e542]:
+            - heading "Vietnam" [level=3] [ref=e543]
+            - generic [ref=e544]: 6 Active Proposals
+          - paragraph [ref=e545]: 300 MW solar, 200 MWh BESS (×2), 30 MW floating solar, 42 MW wind — and a growing C&I project pipeline.
+    - generic [ref=e547]:
+      - paragraph [ref=e548]: Technology Partner Track Record
+      - heading "Proven Across Every Industrial Sector" [level=2] [ref=e549]
+      - paragraph [ref=e550]: Sanhe Power Tech's technology — distributed exclusively by APX Energy Solutions in Australia, Cambodia, and Vietnam — has been validated by over 30 Fortune 500 companies operating in the world's most demanding environments.
+      - generic [ref=e551]:
+        - generic [ref=e552]:
+          - img [ref=e553]
+          - text: Oil & Gas / Petrochemical
+        - generic [ref=e555]:
+          - img [ref=e556]
+          - text: Cement / Construction
+        - generic [ref=e560]:
+          - img [ref=e561]
+          - text: Mining / Metallurgy
+        - generic [ref=e563]:
+          - img [ref=e564]
+          - text: Semiconductor / High-Tech
+        - generic [ref=e568]:
+          - img [ref=e569]
+          - text: Water / Infrastructure
+        - generic [ref=e571]:
+          - img [ref=e572]
+          - text: New Energy / Power Grid
+      - generic [ref=e574]:
+        - generic [ref=e576]: ABB
+        - generic [ref=e578]: Samsung E&A
+        - img "BP" [ref=e580]
+        - generic [ref=e582]: BASF
+        - generic [ref=e584]: TBEA
+        - generic [ref=e586]: JinkoSolar
+        - generic [ref=e588]: Linde
+        - img "HeidelbergCement" [ref=e590]
+        - generic [ref=e592]: BYD
+        - generic [ref=e594]: JA Solar
+        - generic [ref=e596]: LONGi
+        - generic [ref=e598]: Sungrow
+        - generic [ref=e600]: Canadian Solar
+        - img "Baosteel" [ref=e602]
+        - generic [ref=e604]: Konka
+        - img "REPT Battero" [ref=e606]
+        - generic [ref=e608]: Sinopec
+        - generic [ref=e610]: CNPC
+        - generic [ref=e612]: GCL
+        - generic [ref=e614]: Sinoma / CNBM
+        - generic [ref=e616]: CNOOC
+        - generic [ref=e618]: China Guodian
+        - generic [ref=e620]: PipeChina
+        - generic [ref=e622]: MCC
+        - generic [ref=e624]: China Resources
+        - generic [ref=e626]: Tianjin Jinpeng
+        - generic [ref=e628]: Shenhua Group
+        - generic [ref=e630]: SDIC
+      - paragraph [ref=e631]: Partial list of Sanhe Power Tech's Fortune 500 and global enterprise clients
+    - generic [ref=e634]:
+      - generic [ref=e635]:
+        - paragraph [ref=e636]: Get in Touch
+        - heading "Let's Build Your Energy Future" [level=2] [ref=e637]
+        - paragraph [ref=e638]: Whether you're exploring a rooftop solar installation or scoping a utility-scale project, our team is ready to discuss your requirements and provide a tailored energy solution.
+        - generic [ref=e639]:
+          - link "enquiry@apxenergygroup.com" [ref=e640] [cursor=pointer]:
+            - /url: mailto:enquiry@apxenergygroup.com
+            - img [ref=e642]
+            - text: enquiry@apxenergygroup.com
+          - link "www.apxenergygroup.com" [ref=e645] [cursor=pointer]:
+            - /url: https://www.apxenergygroup.com
+            - img [ref=e647]
+            - text: www.apxenergygroup.com
+          - generic [ref=e650]:
+            - img [ref=e652]
+            - text: Australia · Cambodia · Vietnam
+      - generic [ref=e656]:
+        - generic [ref=e657]:
+          - generic [ref=e658]:
+            - generic [ref=e659]: Full Name *
+            - textbox "Jane Smith" [ref=e660]
+          - generic [ref=e661]:
+            - generic [ref=e662]: Email Address *
+            - textbox "jane@company.com" [ref=e663]
+        - generic [ref=e664]:
+          - generic [ref=e665]:
+            - generic [ref=e666]: Company
+            - textbox "Your company" [ref=e667]
+          - generic [ref=e668]:
+            - generic [ref=e669]: Country
+            - combobox [ref=e670]:
+              - option "Select country" [selected]
+              - option "Australia"
+              - option "Cambodia"
+              - option "Vietnam"
+              - option "Other"
+        - generic [ref=e671]:
+          - generic [ref=e672]: Message *
+          - textbox "Tell us about your project or enquiry..." [ref=e673]
+        - button "Send Message" [ref=e674]
+  - contentinfo [ref=e675]:
+    - generic [ref=e676]:
+      - generic [ref=e677]:
+        - generic [ref=e678]:
+          - img "APX Energy Solutions" [ref=e679]:
+            - generic [ref=e683]: APX
+          - paragraph [ref=e684]: Authorised sole international distributor for Sanhe Power Tech (Shenzhen) Co., Ltd.
+        - generic [ref=e685]:
+          - heading "Quick Links" [level=4] [ref=e686]
+          - list [ref=e687]:
+            - listitem [ref=e688]:
+              - link "About" [ref=e689] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e690]:
+              - link "Technology Partner" [ref=e691] [cursor=pointer]:
+                - /url: "#sanhe"
+            - listitem [ref=e692]:
+              - link "Solutions" [ref=e693] [cursor=pointer]:
+                - /url: "#solutions"
+            - listitem [ref=e694]:
+              - link "Projects" [ref=e695] [cursor=pointer]:
+                - /url: "#projects"
+            - listitem [ref=e696]:
+              - link "Why APX" [ref=e697] [cursor=pointer]:
+                - /url: "#why-apx"
+            - listitem [ref=e698]:
+              - link "Contact" [ref=e699] [cursor=pointer]:
+                - /url: "#contact"
+        - generic [ref=e700]:
+          - heading "Contact" [level=4] [ref=e701]
+          - list [ref=e702]:
+            - listitem [ref=e703]:
+              - link "enquiry@apxenergygroup.com" [ref=e704] [cursor=pointer]:
+                - /url: mailto:enquiry@apxenergygroup.com
+            - listitem [ref=e705]:
+              - link "www.apxenergygroup.com" [ref=e706] [cursor=pointer]:
+                - /url: https://www.apxenergygroup.com
+            - listitem [ref=e707]: Australia · Cambodia · Vietnam
+      - generic [ref=e709]:
+        - generic [ref=e710]: IEC Member
+        - generic [ref=e711]: IEEE Member
+        - generic [ref=e712]: CE
+        - generic [ref=e713]: CQC
+        - generic [ref=e714]: SGS
+        - generic [ref=e715]: CNAS
+        - generic [ref=e716]: 100+ Patents & Standards
+      - generic [ref=e717]:
+        - paragraph [ref=e718]: © 2026 APX Energy Solutions · All rights reserved.
+        - paragraph [ref=e719]: "Technology Partner: Sanhe Power Tech (Shenzhen) Co., Ltd."

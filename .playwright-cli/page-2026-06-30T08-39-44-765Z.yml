@@ -1,0 +1,823 @@
+- generic [ref=e6]:
+  - generic [ref=e7]:
+    - banner [ref=e10]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - button "Menu":
+            - generic:
+              - generic: Global
+          - generic [ref=e14]:
+            - link "Who we are" [ref=e15] [cursor=pointer]:
+              - /url: /global/en/who-we-are
+              - generic [ref=e16]: Who we are
+            - link "Products" [ref=e17] [cursor=pointer]:
+              - /url: /global/en/products
+              - generic [ref=e18]: Products
+            - link "Investors" [ref=e19] [cursor=pointer]:
+              - /url: /global/en/investors
+              - generic [ref=e20]: Investors
+            - link "Careers" [ref=e21] [cursor=pointer]:
+              - /url: /global/en/careers
+              - generic [ref=e22]: Careers
+            - link "Media" [ref=e23] [cursor=pointer]:
+              - /url: /global/en/media
+              - generic [ref=e24]: Media
+        - generic [ref=e25]:
+          - generic:  
+          - generic [ref=e26]:
+            - button "Search" [ref=e27] [cursor=pointer]: 
+            - button "Language" [ref=e28] [cursor=pointer]: 
+            - button "Accessibility" [ref=e29] [cursor=pointer]: 
+      - link "Logo link" [ref=e32] [cursor=pointer]:
+        - /url: /global/en
+    - generic [ref=e38]:
+      - img "Joe Hanson as the host of the BASF podcast “SUBSTANCE”." [ref=e51]
+      - generic [ref=e64]:
+        - generic [ref=e71]:
+          - heading "Differences make us successful" [level=2] [ref=e72]
+          - heading "Find out more" [level=3] [ref=e73]:
+            - link "Find out more" [ref=e75] [cursor=pointer]:
+              - /url: https://www.basf.com/global/en/careers/why-join-basf/diversity
+        - generic [ref=e82]:
+          - heading "SUBSTANCE" [level=2] [ref=e83]
+          - paragraph [ref=e84]: From alchemy to cutting‑edge chemistry
+          - heading "Learn more in our SUBSTANCE podcast" [level=3] [ref=e85]:
+            - link "Learn more in our SUBSTANCE podcast" [ref=e87] [cursor=pointer]:
+              - /url: /global/en/media/magazine/creatingchemistrystories/podcasts
+        - generic [ref=e94]:
+          - heading "A flagship for chemical production" [level=2] [ref=e95]
+          - paragraph [ref=e96]: BASF inaugurates world-scale Verbund site in China
+          - heading "Discover more" [level=3] [ref=e97]:
+            - link "Discover more" [ref=e99] [cursor=pointer]:
+              - /url: /global/en/media/events/2026/zhanjiang-inauguration
+          - heading [level=3]
+      - generic [ref=e100]:
+        - button "Previous" [ref=e101] [cursor=pointer]: 
+        - button "Pause" [ref=e102] [cursor=pointer]: 
+        - button "Next" [ref=e103] [cursor=pointer]: 
+  - main [ref=e104]:
+    - heading "BASF – We Create Chemistry" [level=1] [ref=e106]
+    - list [ref=e108]:
+      - listitem [ref=e109]:
+        - link "contact" [ref=e111] [cursor=pointer]:
+          - /url: /global/en/legal/contact
+          - text: 
+      - listitem
+    - generic [ref=e114]:
+      - article "Driving change, together" [ref=e118] [cursor=pointer]:
+        - img "A young woman with headphones walks along a city street holding a skateboard. In the background there are palm trees, buildings, and a truck. A light swirl appears on the road surface." [ref=e123]
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e127]: We create change
+            - generic [ref=e128]: Driving change, together
+            - generic [ref=e129]: Our innovations and our people are powering the transition and helping customers around the globe move towards a more sustainable future.
+          - list [ref=e130]:
+            - listitem [ref=e131]:
+              - link " Discover stories" [ref=e132]:
+                - /url: /global/en/who-we-are/we-create-change
+                - text: 
+                - generic [ref=e133]: Discover stories
+      - article "Our “Winning Ways” Strategy" [ref=e137] [cursor=pointer]:
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - generic [ref=e145]: Chemistry is our Passion
+            - generic [ref=e146]: Our “Winning Ways” Strategy
+            - generic [ref=e147]: Our ambition is to be the preferred chemical company to enable our customers’ green transformation.
+          - list [ref=e148]:
+            - listitem [ref=e149]:
+              - link " Discover more" [ref=e150]:
+                - /url: /global/en/who-we-are/strategy
+                - text: 
+                - generic [ref=e151]: Discover more
+      - article "Be part of our Story!" [ref=e155]:
+        - img "A man and a woman in work clothes operate a factory machine." [ref=e160]
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - generic [ref=e164]: Accomplish great things together
+            - generic [ref=e165]: Be part of our Story!
+            - generic [ref=e166]: Grow, inspire and change.
+          - list [ref=e167]:
+            - listitem [ref=e168]:
+              - link " Discover open positions" [ref=e169] [cursor=pointer]:
+                - /url: https://basf.jobs/?locale=en_US&utm_source=careersite&utm_medium=global_en&utm_campaign=homepage_basf
+                - text: 
+                - generic [ref=e170]: Discover open positions
+            - listitem [ref=e171]:
+              - link " Why join BASF?" [ref=e172] [cursor=pointer]:
+                - /url: https://www.basf.com/global/en/careers/why-join-basf.html
+                - text: 
+                - generic [ref=e173]: Why join BASF?
+      - generic [ref=e180]:
+        - heading "Solutions for your industry" [level=2] [ref=e186]
+        - generic [ref=e190]:
+          - paragraph
+          - list [ref=e191]:
+            - listitem [ref=e192]:
+              - link " View all industries" [ref=e194] [cursor=pointer]:
+                - /url: https://www.basf.com/global/en/products.html
+                - text: 
+                - generic [ref=e195]: View all industries
+            - listitem [ref=e196]:
+              - link " Product search" [ref=e198] [cursor=pointer]:
+                - /url: https://products.basf.com/global/en.html#%7B%7D
+                - text: 
+                - generic [ref=e199]: Product search
+        - generic [ref=e203]:
+          - generic [ref=e204]:
+            - button "Previous" [ref=e205] [cursor=pointer]: 
+            - region [ref=e207]:
+              - generic [ref=e211]:
+                - article [ref=e216] [cursor=pointer]:
+                  - img [ref=e221]
+                  - generic [ref=e222]:
+                    - generic [ref=e224]: Plastics & Rubber
+                    - list [ref=e225]:
+                      - listitem [ref=e226]:
+                        - link [ref=e227]:
+                          - /url: https://plastics-rubber.basf.com/emea/en.html
+                          - text: 
+                          - generic [ref=e228]: Discover more
+                - article [ref=e233] [cursor=pointer]:
+                  - img [ref=e238]
+                  - generic [ref=e239]:
+                    - generic [ref=e241]: Textile, Leather & Footwear
+                    - list [ref=e242]:
+                      - listitem [ref=e243]:
+                        - link [ref=e244]:
+                          - /url: https://textile-leather-footwear.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e245]: Discover more
+                - article [ref=e250] [cursor=pointer]:
+                  - img [ref=e255]
+                  - generic [ref=e256]:
+                    - generic [ref=e258]: Find your product
+                    - list [ref=e259]:
+                      - listitem [ref=e260]:
+                        - link [ref=e261]:
+                          - /url: https://products.basf.com/global/en.html#%7B%7D
+                          - text: 
+                          - generic [ref=e262]: Product search
+                - article [ref=e267] [cursor=pointer]:
+                  - img [ref=e272]
+                  - generic [ref=e273]:
+                    - generic [ref=e275]: Agriculture
+                    - list [ref=e276]:
+                      - listitem [ref=e277]:
+                        - link [ref=e278]:
+                          - /url: https://agriculture.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e279]: Discover more
+                - article [ref=e284] [cursor=pointer]:
+                  - img [ref=e289]
+                  - generic [ref=e290]:
+                    - generic [ref=e292]: Automotive & Transportation
+                    - list [ref=e293]:
+                      - listitem [ref=e294]:
+                        - link [ref=e295]:
+                          - /url: https://automotive-transportation.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e296]: Discover more
+                - article [ref=e301] [cursor=pointer]:
+                  - img [ref=e306]
+                  - generic [ref=e307]:
+                    - generic [ref=e309]: Chemicals
+                    - list [ref=e310]:
+                      - listitem [ref=e311]:
+                        - link [ref=e312]:
+                          - /url: https://chemicals.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e313]: Discover more
+                - article [ref=e318] [cursor=pointer]:
+                  - img [ref=e323]
+                  - generic [ref=e324]:
+                    - generic [ref=e326]: Coatings Solutions
+                    - list [ref=e327]:
+                      - listitem [ref=e328]:
+                        - link [ref=e329]:
+                          - /url: https://www.basf-coatings.com/global/en.html
+                          - text: 
+                          - generic [ref=e330]: Discover more
+                - article [ref=e335] [cursor=pointer]:
+                  - img [ref=e340]
+                  - generic [ref=e341]:
+                    - generic [ref=e343]: Construction
+                    - list [ref=e344]:
+                      - listitem [ref=e345]:
+                        - link [ref=e346]:
+                          - /url: https://construction.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e347]: Discover more
+                - article [ref=e352] [cursor=pointer]:
+                  - img [ref=e357]
+                  - generic [ref=e358]:
+                    - generic [ref=e360]: Electronics & Electric
+                    - list [ref=e361]:
+                      - listitem [ref=e362]:
+                        - link [ref=e363]:
+                          - /url: https://electronics-electric.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e364]: Discover more
+                - article [ref=e369] [cursor=pointer]:
+                  - img [ref=e374]
+                  - generic [ref=e375]:
+                    - generic [ref=e377]: Energy & Resources
+                    - list [ref=e378]:
+                      - listitem [ref=e379]:
+                        - link [ref=e380]:
+                          - /url: https://energy-resources.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e381]: Discover more
+                - article [ref=e386] [cursor=pointer]:
+                  - img [ref=e391]
+                  - generic [ref=e392]:
+                    - generic [ref=e394]: Furniture & Wood
+                    - list [ref=e395]:
+                      - listitem [ref=e396]:
+                        - link [ref=e397]:
+                          - /url: https://furniture-wood.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e398]: Discover more
+                - article [ref=e403] [cursor=pointer]:
+                  - img [ref=e408]
+                  - generic [ref=e409]:
+                    - generic [ref=e411]: Home Care, Industrial & Institutional Cleaning
+                    - list [ref=e412]:
+                      - listitem [ref=e413]:
+                        - link [ref=e414]:
+                          - /url: https://home-care-cleaning.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e415]: Discover more
+                - article [ref=e420] [cursor=pointer]:
+                  - img [ref=e425]
+                  - generic [ref=e426]:
+                    - generic [ref=e428]: Nutrition
+                    - list [ref=e429]:
+                      - listitem [ref=e430]:
+                        - link [ref=e431]:
+                          - /url: https://nutrition.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e432]: Discover more
+                - article [ref=e437] [cursor=pointer]:
+                  - img [ref=e442]
+                  - generic [ref=e443]:
+                    - generic [ref=e445]: Packaging & Print
+                    - list [ref=e446]:
+                      - listitem [ref=e447]:
+                        - link [ref=e448]:
+                          - /url: https://packaging-print.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e449]: Discover more
+                - article [ref=e454] [cursor=pointer]:
+                  - img [ref=e459]
+                  - generic [ref=e460]:
+                    - generic [ref=e462]: Paints & Coatings
+                    - list [ref=e463]:
+                      - listitem [ref=e464]:
+                        - link [ref=e465]:
+                          - /url: https://paints-coatings.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e466]: Discover more
+                - article [ref=e471] [cursor=pointer]:
+                  - img [ref=e476]
+                  - generic [ref=e477]:
+                    - generic [ref=e479]: Personal Care & Hygiene
+                    - list [ref=e480]:
+                      - listitem [ref=e481]:
+                        - link [ref=e482]:
+                          - /url: https://personal-care-hygiene.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e483]: Discover more
+                - article [ref=e488] [cursor=pointer]:
+                  - img [ref=e493]
+                  - generic [ref=e494]:
+                    - generic [ref=e496]: Pharmaceuticals
+                    - list [ref=e497]:
+                      - listitem [ref=e498]:
+                        - link [ref=e499]:
+                          - /url: https://pharmaceutical.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e500]: Discover more
+                - article [ref=e505] [cursor=pointer]:
+                  - img [ref=e510]
+                  - generic [ref=e511]:
+                    - generic [ref=e513]: Plastics & Rubber
+                    - list [ref=e514]:
+                      - listitem [ref=e515]:
+                        - link [ref=e516]:
+                          - /url: https://plastics-rubber.basf.com/emea/en.html
+                          - text: 
+                          - generic [ref=e517]: Discover more
+                - article [ref=e522] [cursor=pointer]:
+                  - img [ref=e527]
+                  - generic [ref=e528]:
+                    - generic [ref=e530]: Textile, Leather & Footwear
+                    - list [ref=e531]:
+                      - listitem [ref=e532]:
+                        - link [ref=e533]:
+                          - /url: https://textile-leather-footwear.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e534]: Discover more
+                - article [ref=e539] [cursor=pointer]:
+                  - img [ref=e544]
+                  - generic [ref=e545]:
+                    - generic [ref=e547]: Find your product
+                    - list [ref=e548]:
+                      - listitem [ref=e549]:
+                        - link [ref=e550]:
+                          - /url: https://products.basf.com/global/en.html#%7B%7D
+                          - text: 
+                          - generic [ref=e551]: Product search
+                - article "Agriculture" [ref=e556] [cursor=pointer]:
+                  - img "A man and woman standing on a field with a tractor in the background." [ref=e561]
+                  - generic [ref=e562]:
+                    - generic [ref=e564]: Agriculture
+                    - list [ref=e565]:
+                      - listitem [ref=e566]:
+                        - link " Discover more" [ref=e567]:
+                          - /url: https://agriculture.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e568]: Discover more
+                - article "Automotive & Transportation" [ref=e573] [cursor=pointer]:
+                  - img "Two cars driving on a road." [ref=e578]
+                  - generic [ref=e579]:
+                    - generic [ref=e581]: Automotive & Transportation
+                    - list [ref=e582]:
+                      - listitem [ref=e583]:
+                        - link " Discover more" [ref=e584]:
+                          - /url: https://automotive-transportation.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e585]: Discover more
+                - article "Chemicals" [ref=e590] [cursor=pointer]:
+                  - img "A woman filling a liquid into a small glass." [ref=e595]
+                  - generic [ref=e596]:
+                    - generic [ref=e598]: Chemicals
+                    - list [ref=e599]:
+                      - listitem [ref=e600]:
+                        - link " Discover more" [ref=e601]:
+                          - /url: https://chemicals.basf.com/global/en.html
+                          - text: 
+                          - generic [ref=e602]: Discover more
+            - button "Next" [ref=e603] [cursor=pointer]: 
+          - generic [ref=e604]:
+            - generic [ref=e605]: 
+            - tablist [ref=e606]:
+              - tab "Page 1" [selected] [ref=e607] [cursor=pointer]
+              - tab "Page 2" [ref=e608] [cursor=pointer]
+              - tab "Page 3" [ref=e609] [cursor=pointer]
+              - tab "Page 4" [ref=e610] [cursor=pointer]
+              - tab "Page 5" [ref=e611] [cursor=pointer]
+              - tab "Page 6" [ref=e612] [cursor=pointer]
+            - generic [ref=e613]: 
+      - heading "Company insights" [level=2] [ref=e619]
+      - article [ref=e623] [cursor=pointer]:
+        - img "Photo of Cavipor®, a mineral based clay foam, BASF combines traditional materials with modern technology." [ref=e628]
+        - generic [ref=e629]:
+          - generic [ref=e630]:
+            - generic [ref=e631]: Future-proof insulation
+            - generic [ref=e632]: How clay improves the energy efficiency of buildings
+            - generic [ref=e633]:
+              - text: Clay is one of the oldest building materials in the world – and more relevant than ever. With Cavipor
+              - superscript [ref=e634]: ®
+              - text: ", a mineral based clay foam, BASF combines traditional materials with modern technology. The result is a sustainable, safe, and efficient insulation solution specifically developed for the energy efficient renovation of existing buildings with cavity walls."
+          - list [ref=e635]:
+            - listitem [ref=e636]:
+              - link " Find out more" [ref=e637]:
+                - /url: https://construction.basf.com/global/en/products/cavipor_reliable_insulation
+                - text: 
+                - generic [ref=e638]: Find out more
+      - article "SUBSTANCE is out" [ref=e642] [cursor=pointer]:
+        - img "Person sitting on a stool. The background shows a stylized sound‑wave graphic on an orange gradient" [ref=e647]
+        - generic [ref=e648]:
+          - generic [ref=e650]: SUBSTANCE is out
+          - list [ref=e651]:
+            - listitem [ref=e652]:
+              - link " Our new podcast presents visionary projects and exciting innovations. Listen now" [ref=e653]:
+                - /url: https://www.basf.com/substance-podcast
+                - text: 
+                - generic [ref=e654]: Our new podcast presents visionary projects and exciting innovations. Listen now
+      - article "BASF in China" [ref=e658] [cursor=pointer]:
+        - generic [ref=e663]:
+          - generic [ref=e665]: BASF in China
+          - list [ref=e666]:
+            - listitem [ref=e667]:
+              - link " Discover more about our activities and investments in China" [ref=e668]:
+                - /url: /global/en/who-we-are/organization/locations/asia-pacific/our-engagement-in-china
+                - text: 
+                - generic [ref=e669]: Discover more about our activities and investments in China
+      - iframe [ref=e674]:
+        
+      - generic [ref=e681]:
+        - heading "Latest news" [level=2] [ref=e687]
+        - generic [ref=e691]:
+          - paragraph
+          - list [ref=e692]:
+            - listitem [ref=e693]:
+              - link " View all news" [ref=e695] [cursor=pointer]:
+                - /url: /global/en/media/news-releases
+                - text: 
+                - generic [ref=e696]: View all news
+        - generic [ref=e701]:
+          - generic [ref=e702]:
+            - button "Previous" [ref=e703] [cursor=pointer]: 
+            - region [ref=e705]:
+              - generic [ref=e709]:
+                - article [ref=e712] [cursor=pointer]:
+                  - generic [ref=e713]:
+                    - generic [ref=e715]:
+                      - text: Trade News |
+                      - generic [ref=e717]: June 25, 2026
+                    - heading [level=3] [ref=e718]:
+                      - text: Ultramid
+                      - superscript [ref=e719]: ®
+                      - text: "A3XZC3 ESD: High-performance plastic for rugged self-contained breathing apparatus"
+                    - link [ref=e721]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-112
+                      - text: 
+                      - generic [ref=e722]: Read more
+                - article [ref=e725] [cursor=pointer]:
+                  - generic [ref=e726]:
+                    - generic [ref=e730]: June 24, 2026
+                    - heading [level=3] [ref=e731]: Chemetall receives Airbus SQIP award for the eleventh consecutive year
+                    - link [ref=e733]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-118
+                      - text: 
+                      - generic [ref=e734]: Read more
+                - article [ref=e737] [cursor=pointer]:
+                  - generic [ref=e738]:
+                    - generic [ref=e740]:
+                      - text: Trade News |
+                      - generic [ref=e742]: June 24, 2026
+                    - heading [level=3] [ref=e743]:
+                      - text: BASF launches Micadelva
+                      - superscript [ref=e744]: TM
+                      - text: and its new Safe-by-Design concept for creating future-proof fragrance ingredients
+                    - link [ref=e746]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-110
+                      - text: 
+                      - generic [ref=e747]: Read more
+                - article [ref=e750] [cursor=pointer]:
+                  - generic [ref=e751]:
+                    - generic [ref=e753]:
+                      - text: Top news |
+                      - generic [ref=e755]: May 20, 2026
+                    - heading [level=3] [ref=e756]: BASF focuses on strengthening and growing its core businesses in the next phase of its “Winning Ways” strategy
+                    - link [ref=e758]:
+                      - /url: /global/en/media/news-releases/2026/05/p-26-105
+                      - text: 
+                      - generic [ref=e759]: Read more
+                - article [ref=e762] [cursor=pointer]:
+                  - generic [ref=e763]:
+                    - generic [ref=e765]:
+                      - text: Trade News |
+                      - generic [ref=e767]: June 30, 2026
+                    - heading [level=3] [ref=e768]: BASF and Bota Biosciences Introduce Bio-Identical Collagen III Powered by AI
+                    - link [ref=e770]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-120
+                      - text: 
+                      - generic [ref=e771]: Read more
+                - article [ref=e774] [cursor=pointer]:
+                  - generic [ref=e775]:
+                    - generic [ref=e779]: June 25, 2026
+                    - heading [level=3] [ref=e780]: BASF Coatings names Executive Committee to lead and drive success as a standalone company
+                    - link [ref=e782]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-119
+                      - text: 
+                      - generic [ref=e783]: Read more
+                - article [ref=e786] [cursor=pointer]:
+                  - generic [ref=e787]:
+                    - generic [ref=e789]:
+                      - text: Trade News |
+                      - generic [ref=e791]: June 25, 2026
+                    - heading [level=3] [ref=e792]:
+                      - text: Ultramid
+                      - superscript [ref=e793]: ®
+                      - text: "A3XZC3 ESD: High-performance plastic for rugged self-contained breathing apparatus"
+                    - link [ref=e795]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-112
+                      - text: 
+                      - generic [ref=e796]: Read more
+                - article [ref=e799] [cursor=pointer]:
+                  - generic [ref=e800]:
+                    - generic [ref=e804]: June 24, 2026
+                    - heading [level=3] [ref=e805]: Chemetall receives Airbus SQIP award for the eleventh consecutive year
+                    - link [ref=e807]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-118
+                      - text: 
+                      - generic [ref=e808]: Read more
+                - article [ref=e811] [cursor=pointer]:
+                  - generic [ref=e812]:
+                    - generic [ref=e814]:
+                      - text: Trade News |
+                      - generic [ref=e816]: June 24, 2026
+                    - heading [level=3] [ref=e817]:
+                      - text: BASF launches Micadelva
+                      - superscript [ref=e818]: TM
+                      - text: and its new Safe-by-Design concept for creating future-proof fragrance ingredients
+                    - link [ref=e820]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-110
+                      - text: 
+                      - generic [ref=e821]: Read more
+                - article [ref=e824] [cursor=pointer]:
+                  - generic [ref=e825]:
+                    - generic [ref=e827]:
+                      - text: Top news |
+                      - generic [ref=e829]: May 20, 2026
+                    - heading "BASF focuses on strengthening and growing its core businesses in the next phase of its “Winning Ways” strategy" [level=3] [ref=e830]
+                    - link " Read more" [ref=e832]:
+                      - /url: /global/en/media/news-releases/2026/05/p-26-105
+                      - text: 
+                      - generic [ref=e833]: Read more
+                - article [ref=e836] [cursor=pointer]:
+                  - generic [ref=e837]:
+                    - generic [ref=e839]:
+                      - text: Trade News |
+                      - generic [ref=e841]: June 30, 2026
+                    - heading "BASF and Bota Biosciences Introduce Bio-Identical Collagen III Powered by AI" [level=3] [ref=e842]
+                    - link " Read more" [ref=e844]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-120
+                      - text: 
+                      - generic [ref=e845]: Read more
+                - article [ref=e848] [cursor=pointer]:
+                  - generic [ref=e849]:
+                    - generic [ref=e853]: June 25, 2026
+                    - heading "BASF Coatings names Executive Committee to lead and drive success as a standalone company" [level=3] [ref=e854]
+                    - link " Read more" [ref=e856]:
+                      - /url: /global/en/media/news-releases/2026/06/p-26-119
+                      - text: 
+                      - generic [ref=e857]: Read more
+            - button "Next" [ref=e858] [cursor=pointer]: 
+          - generic [ref=e859]:
+            - generic [ref=e860]: 
+            - tablist [ref=e861]:
+              - tab "Page 1" [selected] [ref=e862] [cursor=pointer]
+              - tab "Page 2" [ref=e863] [cursor=pointer]
+            - generic [ref=e864]: 
+      - heading "We empower businesses to become more sustainable" [level=2] [ref=e870]
+      - article [ref=e874] [cursor=pointer]:
+        - img "William Pitts, farmer, and Alice Johnston, Sustainability Manager for BASF Agricultural Solutions in the UK, examine the soil quality of the Fortress field at The Grange Farm in Northamptonshire" [ref=e879]
+        - generic [ref=e880]:
+          - generic [ref=e881]:
+            - generic [ref=e882]: Climate resilient agriculture
+            - generic [ref=e883]: Why healthy soils are good for our food and the planet
+            - generic [ref=e884]: Soil degradation is one major challenge for farmers and is expected to increase in importance over the next decades. Sustainable farming methods and collaboration can help making agriculture more resilient to climate change.
+          - list [ref=e885]:
+            - listitem [ref=e886]:
+              - link " Discover the inspiring story" [ref=e887]:
+                - /url: https://agriculture.basf.com/global/en/sustainable-agriculture/climate-smart-farming/soil-carbon-sequestration
+                - text: 
+                - generic [ref=e888]: Discover the inspiring story
+      - article "The recycling of plastics" [ref=e892] [cursor=pointer]:
+        - img "Close up of a two stacks of blue plastic polypropylene granules on a table." [ref=e897]
+        - generic [ref=e898]:
+          - generic [ref=e899]:
+            - generic [ref=e900]: The recycling of plastics
+            - generic [ref=e901]: We are closing the loop from plastic waste to virgin-grade products.
+          - list [ref=e902]:
+            - listitem [ref=e903]:
+              - link " More about our ChemCycling™ project" [ref=e904]:
+                - /url: https://plastics-rubber.basf.com/global/en/plastics-hub/recycle_keeping_plastics_in_the_loop/recycling_technologies_overview/pyrolysis/chemcycling
+                - text: 
+                - generic [ref=e905]: More about our ChemCycling™ project
+      - article "Renewable Energy for BASF" [ref=e909] [cursor=pointer]:
+        - img "Wind turbines in the sea." [ref=e914]
+        - generic [ref=e915]:
+          - generic [ref=e916]:
+            - generic [ref=e917]: Renewable Energy for BASF
+            - generic [ref=e918]: Acquisition, Trade and Expertise – the energy concept of BASF.
+          - list [ref=e919]:
+            - listitem [ref=e920]:
+              - link " Discover BASF Renewable Energy GmbH" [ref=e921]:
+                - /url: /global/en/who-we-are/organization/group-companies/BASF_Renewable-Energy-GmbH
+                - text: 
+                - generic [ref=e922]: Discover BASF Renewable Energy GmbH
+      - article "BASF Venture Capital" [ref=e926] [cursor=pointer]:
+        - img "Three men and a woman in white working coats walking." [ref=e931]
+        - generic [ref=e932]:
+          - generic [ref=e933]:
+            - generic [ref=e934]: BASF Venture Capital
+            - generic [ref=e935]: We invest in young, fast-growing companies worldwide.
+          - list [ref=e936]:
+            - listitem [ref=e937]:
+              - link " BASF Group’s corporate venture capital company" [ref=e938]:
+                - /url: /global/en/who-we-are/organization/group-companies/BASF_Venture-Capital
+                - text: 
+                - generic [ref=e939]: BASF Group’s corporate venture capital company
+      - generic [ref=e946]:
+        - heading "People at BASF" [level=2] [ref=e952]
+        - article "Our Change Makers" [ref=e956] [cursor=pointer]:
+          - img "A man in a greenhouse" [ref=e961]
+          - generic [ref=e962]:
+            - generic [ref=e963]:
+              - generic [ref=e964]: Our Change Makers
+              - generic [ref=e965]: Every small action moves us towards big change. That’s why everyone at BASF, no matter where they are or what they do, is making climate protection a priority.
+            - list [ref=e966]:
+              - listitem [ref=e967]:
+                - link " We call them our Change Makers – and these are their stories" [ref=e968]:
+                  - /url: /global/en/who-we-are/change-for-climate/change-makers
+                  - text: 
+                  - generic [ref=e969]: We call them our Change Makers – and these are their stories
+        - article "Our Smart Scientists" [ref=e973] [cursor=pointer]:
+          - img "A woman in a greenhouse" [ref=e978]
+          - generic [ref=e979]:
+            - generic [ref=e980]:
+              - generic [ref=e981]: Our Smart Scientists
+              - generic [ref=e982]: At BASF, we are proud of our scientists. They drive innovations and help us change the world we live in for the better.
+            - list [ref=e983]:
+              - listitem [ref=e984]:
+                - link " Take a look behind the scenes" [ref=e985]:
+                  - /url: /global/en/who-we-are/innovation/get-to-know-our-experts
+                  - text: 
+                  - generic [ref=e986]: Take a look behind the scenes
+        - article "Discover BASF as employer" [ref=e990]:
+          - img "Four people in work clothes in a plant" [ref=e995]
+          - generic [ref=e996]:
+            - generic [ref=e997]:
+              - generic [ref=e998]: Discover BASF as employer
+              - generic [ref=e999]: Shape your future with us. We support you in growing beyond yourself.
+            - list [ref=e1000]:
+              - listitem [ref=e1001]:
+                - link " Careers at BASF" [ref=e1002] [cursor=pointer]:
+                  - /url: /global/en
+                  - text: 
+                  - generic [ref=e1003]: Careers at BASF
+              - listitem [ref=e1004]:
+                - link " Apply now" [ref=e1005] [cursor=pointer]:
+                  - /url: https://basf.jobs/?locale=en_US&utm_source=careersite&utm_medium=global_en&utm_campaign=homepage_basf
+                  - text: 
+                  - generic [ref=e1006]: Apply now
+        - article "We build on a culture of belonging" [ref=e1010] [cursor=pointer]:
+          - img "Waving rainbow flag with blue sky in the background." [ref=e1015]
+          - generic [ref=e1016]:
+            - generic [ref=e1017]:
+              - generic [ref=e1018]: We build on a culture of belonging
+              - generic [ref=e1019]: Our differences make us successful.
+            - list [ref=e1020]:
+              - listitem [ref=e1021]:
+                - link " Our diversity and inclusion programs" [ref=e1022]:
+                  - /url: /global/en
+                  - text: 
+                  - generic [ref=e1023]: Our diversity and inclusion programs
+        - article "Our commitment to human rights" [ref=e1027] [cursor=pointer]:
+          - img "Four People kneel in a field" [ref=e1032]
+          - generic [ref=e1033]:
+            - generic [ref=e1034]:
+              - generic [ref=e1035]: Our commitment to human rights
+              - generic [ref=e1036]: Human rights protect the dignity of each and every person. Respecting human rights in our own operations and business relationships is the foundation of our social responsibility.
+            - list [ref=e1037]:
+              - listitem [ref=e1038]:
+                - link " Our commitment to human rights" [ref=e1039]:
+                  - /url: /global/en/who-we-are/sustainability/responsibility-for-society-and-nature/human-rights
+                  - text: 
+                  - generic [ref=e1040]: Our commitment to human rights
+      - iframe [ref=e1052]:
+        
+  - generic [ref=e1053]:
+    - contentinfo [ref=e1055]:
+      - generic [ref=e1056]:
+        - generic [ref=e1061]:
+          - heading "Follow us" [level=2] [ref=e1062]
+          - list "Follow us" [ref=e1064]:
+            - listitem [ref=e1065]:
+              - link "" [ref=e1066] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/basf
+                - text: 
+                - generic [ref=e1067]: 
+            - listitem [ref=e1068]:
+              - link "" [ref=e1069] [cursor=pointer]:
+                - /url: https://www.facebook.com/basf
+                - text: 
+                - generic [ref=e1070]: 
+            - listitem [ref=e1071]:
+              - link "" [ref=e1072] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/basf
+                - text: 
+                - generic [ref=e1073]: 
+            - listitem [ref=e1074]:
+              - link "" [ref=e1075] [cursor=pointer]:
+                - /url: https://www.instagram.com/basf_global/
+                - text: 
+                - generic [ref=e1076]: 
+            - listitem [ref=e1077]:
+              - link "" [ref=e1078] [cursor=pointer]:
+                - /url: https://bsky.app/profile/basf.bsky.social
+                - text: 
+                - generic [ref=e1079]: 
+        - generic [ref=e1080]:
+          - generic [ref=e1085]:
+            - paragraph [ref=e1086]: Company
+            - list [ref=e1087]:
+              - listitem [ref=e1088]:
+                - link " Career" [ref=e1090] [cursor=pointer]:
+                  - /url: /global/en
+                  - text: 
+                  - generic [ref=e1091]: Career
+              - listitem [ref=e1092]:
+                - link " Media" [ref=e1094] [cursor=pointer]:
+                  - /url: /global/en/media
+                  - text: 
+                  - generic [ref=e1095]: Media
+              - listitem [ref=e1096]:
+                - link " Sustainability" [ref=e1098] [cursor=pointer]:
+                  - /url: /global/en/who-we-are/sustainability
+                  - text: 
+                  - generic [ref=e1099]: Sustainability
+              - listitem [ref=e1100]:
+                - link " Innovation" [ref=e1102] [cursor=pointer]:
+                  - /url: /global/en/who-we-are/innovation
+                  - text: 
+                  - generic [ref=e1103]: Innovation
+          - generic [ref=e1108]:
+            - paragraph [ref=e1109]: Products
+            - list [ref=e1110]:
+              - listitem [ref=e1111]:
+                - link " Product Finder" [ref=e1113] [cursor=pointer]:
+                  - /url: https://products.basf.com/global/en
+                  - text: 
+                  - generic [ref=e1114]: Product Finder
+              - listitem [ref=e1115]:
+                - link " Industries" [ref=e1117] [cursor=pointer]:
+                  - /url: /global/en/products
+                  - text: 
+                  - generic [ref=e1118]: Industries
+              - listitem [ref=e1119]:
+                - link " General Conditions of Sale BASF SE" [ref=e1121] [cursor=pointer]:
+                  - /url: https://products.basf.com/global/en/general_conditions_of_sales
+                  - text: 
+                  - generic [ref=e1122]: General Conditions of Sale BASF SE
+          - generic [ref=e1127]:
+            - paragraph [ref=e1128]: Information
+            - list [ref=e1129]:
+              - listitem [ref=e1130]:
+                - link " Latest News" [ref=e1132] [cursor=pointer]:
+                  - /url: /global/en/media/news-releases
+                  - text: 
+                  - generic [ref=e1133]: Latest News
+              - listitem [ref=e1134]:
+                - link " Multimedia" [ref=e1136] [cursor=pointer]:
+                  - /url: /global/en/media/multimedia
+                  - text: 
+                  - generic [ref=e1137]: Multimedia
+              - listitem [ref=e1138]:
+                - link " Publications" [ref=e1140] [cursor=pointer]:
+                  - /url: /global/en/media/publications
+                  - text: 
+                  - generic [ref=e1141]: Publications
+              - listitem [ref=e1142]:
+                - link " Locations" [ref=e1144] [cursor=pointer]:
+                  - /url: /global/en/who-we-are/organization/locations
+                  - text: 
+                  - generic [ref=e1145]: Locations
+          - generic [ref=e1150]:
+            - paragraph [ref=e1151]: Service
+            - list [ref=e1152]:
+              - listitem [ref=e1153]:
+                - link " Compliance Hotline" [ref=e1155] [cursor=pointer]:
+                  - /url: https://secure.ethicspoint.eu/domain/media/en/gui/49157/index.html
+                  - text: 
+                  - generic [ref=e1156]: Compliance Hotline
+              - listitem [ref=e1157]:
+                - link " Data protection @BASF" [ref=e1159] [cursor=pointer]:
+                  - /url: /global/en/legal/data-protection-at-basf
+                  - text: 
+                  - generic [ref=e1160]: Data protection @BASF
+              - listitem [ref=e1161]:
+                - link " myBASFWorld" [ref=e1163] [cursor=pointer]:
+                  - /url: https://my.basf.com
+                  - text: 
+                  - generic [ref=e1164]: myBASFWorld
+              - listitem [ref=e1165]:
+                - link " Procurement" [ref=e1167] [cursor=pointer]:
+                  - /url: /global/en/who-we-are/organization/suppliers-and-partners
+                  - text: 
+                  - generic [ref=e1168]: Procurement
+      - generic [ref=e1174]:
+        - generic [ref=e1175]: Copyright © BASF 2026
+        - list [ref=e1177]:
+          - listitem [ref=e1178]:
+            - link "Item link" [ref=e1180] [cursor=pointer]:
+              - /url: /global/en/legal/disclaimer
+              - text:  Disclaimer
+          - listitem [ref=e1181]:
+            - link " Cookie Preference Center" [ref=e1183] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1184]:
+            - link "Item link" [ref=e1186] [cursor=pointer]:
+              - /url: /global/en/legal/credits
+              - text:  Credits
+          - listitem [ref=e1187]:
+            - link "Item link" [ref=e1189] [cursor=pointer]:
+              - /url: /global/en/legal/data-protection
+              - text:  Privacy policy
+          - listitem [ref=e1190]:
+            - link "Item link" [ref=e1192] [cursor=pointer]:
+              - /url: /global/en/legal/data-protection-at-basf
+              - text:  Data protection @BASF
+          - listitem [ref=e1193]:
+            - link "Item link" [ref=e1195] [cursor=pointer]:
+              - /url: /global/en/legal/responsible-disclosure-statement
+              - text:  Responsible Disclosure Statement
+          - listitem [ref=e1196]:
+            - link "Item link" [ref=e1198] [cursor=pointer]:
+              - /url: /global/en/legal/contact
+              - text:  Contact
+    - text: 

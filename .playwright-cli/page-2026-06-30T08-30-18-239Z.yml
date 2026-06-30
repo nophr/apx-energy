@@ -1,0 +1,424 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - heading "SAMSUNG E&A" [level=1] [ref=e6]:
+      - link "SAMSUNG E&A" [ref=e7] [cursor=pointer]:
+        - /url: /en/
+        - text: SAMSUNG E&A
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - link "EN" [ref=e12] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "지법인 바로가기" [ref=e13] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic [ref=e14]: 지법인 바로가기
+        - link "Search" [ref=e15] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic [ref=e16]: Search
+      - list [ref=e18]:
+        - listitem [ref=e19]:
+          - link "About Us" [ref=e20] [cursor=pointer]:
+            - /url: /en/about-us/company/overview
+        - listitem [ref=e21]:
+          - link "Business" [ref=e22] [cursor=pointer]:
+            - /url: /en/business/innovation/beyond-epc-solution
+        - listitem [ref=e23]:
+          - link "Sustainability" [ref=e24] [cursor=pointer]:
+            - /url: /en/sustainability/overview
+        - listitem [ref=e25]:
+          - link "IR" [ref=e26] [cursor=pointer]:
+            - /url: /en/ir/overview
+        - listitem [ref=e27]:
+          - link "Careers" [ref=e28] [cursor=pointer]:
+            - /url: /en/careers/talent-development
+        - listitem [ref=e29]:
+          - link "Newsroom" [ref=e30] [cursor=pointer]:
+            - /url: /en/newsroom/overview
+  - generic [ref=e32]:
+    - button "close" [ref=e33] [cursor=pointer]:
+      - generic [ref=e34]: close
+    - generic [ref=e37]: Country Websites
+    - list [ref=e40]:
+      - listitem [ref=e41]:
+        - link "India" [ref=e42] [cursor=pointer]:
+          - /url: https://india.samsungena.com/en
+          - generic [ref=e43]: India
+      - listitem [ref=e45]:
+        - link "Mexico" [ref=e46] [cursor=pointer]:
+          - /url: https://mexico.samsungena.com/en
+          - generic [ref=e47]: Mexico
+      - listitem [ref=e49]:
+        - link "Saudi Arabia" [ref=e50] [cursor=pointer]:
+          - /url: https://saudi.samsungena.com/en
+          - generic [ref=e51]: Saudi Arabia
+      - listitem [ref=e53]:
+        - link "Thailand" [ref=e54] [cursor=pointer]:
+          - /url: https://thailand.samsungena.com/en
+          - generic [ref=e55]: Thailand
+      - listitem [ref=e57]:
+        - link "UAE" [ref=e58] [cursor=pointer]:
+          - /url: https://uae.samsungena.com/en
+          - generic [ref=e59]: UAE
+      - listitem [ref=e61]:
+        - link "United States" [ref=e62] [cursor=pointer]:
+          - /url: https://america.samsungena.com/en
+          - generic [ref=e63]: United States
+  - generic [ref=e65]:
+    - generic [ref=e73]:
+      - generic [ref=e76]:
+        - paragraph [ref=e77]:
+          - text: Enabling a Sustainable
+          - text: Future AHEAD
+        - strong [ref=e78]: An engineering company that builds a better future with advanced technology.
+      - generic [ref=e83]:
+        - paragraph [ref=e84]:
+          - text: Shorten the Construction
+          - text: Period and Minimize Risks
+        - strong [ref=e85]: We will continue doing our best to achieve technological advancement and client satisfaction.
+    - generic [ref=e98]:
+      - strong [ref=e99]:
+        - text: Technology
+        - text: Solution
+      - paragraph [ref=e100]:
+        - text: We are expanding our eco-friendly business portfolio with
+        - text: "'E&Able,' a solution dedicated to fostering a sustainable future"
+        - text: through advanced technology.
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - paragraph [ref=e104]: Business
+        - list [ref=e105]:
+          - listitem [ref=e106]:
+            - paragraph [ref=e107]: Hydrocarbon
+            - button "Oil & Gas Processing" [ref=e108] [cursor=pointer]
+          - listitem [ref=e109]:
+            - button "Refinery" [ref=e110] [cursor=pointer]
+          - listitem [ref=e111]:
+            - button "Petrochemicals" [ref=e112] [cursor=pointer]
+          - listitem [ref=e113]:
+            - paragraph [ref=e114]: Advanced Tech
+            - button "Industrial" [ref=e115] [cursor=pointer]
+          - listitem [ref=e116]:
+            - button "Bio" [ref=e117] [cursor=pointer]
+          - listitem [ref=e118]:
+            - paragraph [ref=e119]: New Energy
+            - button "Sustainable Energy" [ref=e120] [cursor=pointer]
+          - listitem [ref=e121]:
+            - button "ECO (Water)" [ref=e122] [cursor=pointer]
+      - generic [ref=e126]:
+        - paragraph [ref=e128]:
+          - generic [ref=e129]:
+            - generic [ref=e130]: O
+            - generic [ref=e131]: i
+            - generic [ref=e132]: l
+          - generic [ref=e134]: "&"
+          - generic [ref=e135]:
+            - generic [ref=e136]: G
+            - generic [ref=e137]: a
+            - generic [ref=e138]: s
+          - generic [ref=e139]:
+            - generic [ref=e140]: P
+            - generic [ref=e141]: r
+            - generic [ref=e142]: o
+            - generic [ref=e143]: c
+            - generic [ref=e144]: e
+            - generic [ref=e145]: s
+            - generic [ref=e146]: s
+            - generic [ref=e147]: i
+            - generic [ref=e148]: "n"
+            - generic [ref=e149]: g
+        - generic [ref=e152]:
+          - link "2018 Algeria TIMIMOUN Gas Field Development GOSP Project TIMIMOUN Gas Field Development GOSP Project" [ref=e154] [cursor=pointer]:
+            - /url: /en/newsroom/project-gallery/view?idx=46
+            - generic [ref=e155]:
+              - list [ref=e156]:
+                - listitem [ref=e157]: "2018"
+                - listitem [ref=e158]: Algeria
+              - paragraph [ref=e159]: TIMIMOUN Gas Field Development GOSP Project
+            - generic [ref=e160]:
+              - img "TIMIMOUN Gas Field Development GOSP Project" [ref=e161]
+              - paragraph [ref=e162]
+          - link "2018 Thailand PTT Wangnoi Compressor Station Project PTT Wangnoi Compressor Station Project" [ref=e164] [cursor=pointer]:
+            - /url: /en/newsroom/project-gallery/view?idx=95
+            - generic [ref=e165]:
+              - list [ref=e166]:
+                - listitem [ref=e167]: "2018"
+                - listitem [ref=e168]: Thailand
+              - paragraph [ref=e169]: PTT Wangnoi Compressor Station Project
+            - generic [ref=e170]:
+              - img "PTT Wangnoi Compressor Station Project" [ref=e171]
+              - paragraph [ref=e172]
+          - link "2017 Iraq Eni Zubair Oil Field Development GOSP Project Eni Zubair Oil Field Development GOSP Project" [ref=e174] [cursor=pointer]:
+            - /url: /en/newsroom/project-gallery/view?idx=45
+            - generic [ref=e175]:
+              - list [ref=e176]:
+                - listitem [ref=e177]: "2017"
+                - listitem [ref=e178]: Iraq
+              - paragraph [ref=e179]: Eni Zubair Oil Field Development GOSP Project
+            - generic [ref=e180]:
+              - img "Eni Zubair Oil Field Development GOSP Project" [ref=e181]
+              - paragraph [ref=e182]
+          - link "2017 Malaysia Petronas Carigali Terengganu Gas Terminal (TGAST) Development Project Petronas Carigali Terengganu Gas Terminal (TGAST) Development Project" [ref=e184] [cursor=pointer]:
+            - /url: /en/newsroom/project-gallery/view?idx=80
+            - generic [ref=e185]:
+              - list [ref=e186]:
+                - listitem [ref=e187]: "2017"
+                - listitem [ref=e188]: Malaysia
+              - paragraph [ref=e189]: Petronas Carigali Terengganu Gas Terminal (TGAST) Development Project
+            - generic [ref=e190]:
+              - img "Petronas Carigali Terengganu Gas Terminal (TGAST) Development Project" [ref=e191]
+              - paragraph [ref=e192]
+          - link "2017 Iraq Gazprom Badra GSP Project Gazprom Badra GSP Project" [ref=e194] [cursor=pointer]:
+            - /url: /en/newsroom/project-gallery/view?idx=82
+            - generic [ref=e195]:
+              - list [ref=e196]:
+                - listitem [ref=e197]: "2017"
+                - listitem [ref=e198]: Iraq
+              - paragraph [ref=e199]: Gazprom Badra GSP Project
+            - generic [ref=e200]:
+              - img "Gazprom Badra GSP Project" [ref=e201]
+              - paragraph [ref=e202]
+          - link "2016 Indonesia MCL Banyu Urip GOSP Project MCL Banyu Urip GOSP Project" [ref=e204] [cursor=pointer]:
+            - /url: /en/newsroom/project-gallery/view?idx=58
+            - generic [ref=e205]:
+              - list [ref=e206]:
+                - listitem [ref=e207]: "2016"
+                - listitem [ref=e208]: Indonesia
+              - paragraph [ref=e209]: MCL Banyu Urip GOSP Project
+            - generic [ref=e210]:
+              - img "MCL Banyu Urip GOSP Project" [ref=e211]
+              - paragraph [ref=e212]
+    - generic [ref=e220]:
+      - generic [ref=e221]:
+        - generic [ref=e222]: Careers
+        - strong [ref=e223]:
+          - text: Driven by your creative and
+          - text: audacious minds, we will strive
+          - text: forward to build a greater future
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - button "Job Interview" [ref=e227] [cursor=pointer]: Job Interview
+          - list [ref=e231]:
+            - listitem [ref=e232]:
+              - link "Project Development" [ref=e233] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e236]: Project Development
+            - listitem [ref=e237]:
+              - link "Project Management" [ref=e238] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e241]: Project Management
+            - listitem [ref=e242]:
+              - link "Engineering" [ref=e243] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e246]: Engineering
+            - listitem [ref=e247]:
+              - link "Construction Management" [ref=e248] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e251]: Construction Management
+            - listitem [ref=e252]:
+              - link "Commissioning" [ref=e253] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e256]: Commissioning
+            - listitem [ref=e257]:
+              - link "Safety Management" [ref=e258] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e261]: Safety Management
+            - listitem [ref=e262]:
+              - link "Procurement" [ref=e263] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e266]: Procurement
+            - listitem [ref=e267]:
+              - link "Quality Management" [ref=e268] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e271]: Quality Management
+            - listitem [ref=e272]:
+              - link "Sales & Marketing" [ref=e273] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e276]: Sales & Marketing
+            - listitem [ref=e277]:
+              - link "Human Resource Management" [ref=e278] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e281]: Human Resource Management
+            - listitem [ref=e282]:
+              - link "Public Relations" [ref=e283] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e286]: Public Relations
+            - listitem [ref=e287]:
+              - link "Finance & Accounting" [ref=e288] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e291]: Finance & Accounting
+            - listitem [ref=e292]:
+              - link "Finance" [ref=e293] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - paragraph [ref=e296]: Finance
+        - link "Talent Development" [ref=e299] [cursor=pointer]:
+          - /url: /en/careers/talent-development
+          - text: Talent Development
+        - link "Company Life" [ref=e304] [cursor=pointer]:
+          - /url: /en/careers/company-life
+          - text: Company Life
+    - generic [ref=e309]:
+      - list [ref=e311]:
+        - listitem [ref=e312]
+        - listitem [ref=e314]
+        - listitem [ref=e316]
+      - generic [ref=e329]:
+        - paragraph [ref=e330]:
+          - generic [ref=e331]:
+            - generic [ref=e332]: S
+            - generic [ref=e333]: u
+            - generic [ref=e334]: s
+            - generic [ref=e335]: t
+            - generic [ref=e336]: a
+            - generic [ref=e337]: i
+            - generic [ref=e338]: "n"
+            - generic [ref=e339]: a
+            - generic [ref=e340]: b
+            - generic [ref=e341]: i
+            - generic [ref=e342]: l
+            - generic [ref=e343]: i
+            - generic [ref=e344]: t
+            - generic [ref=e345]: "y"
+        - paragraph [ref=e346]:
+          - generic [ref=e347]:
+            - generic [ref=e348]: W
+            - generic [ref=e349]: e
+          - generic [ref=e350]:
+            - generic [ref=e351]: a
+            - generic [ref=e352]: i
+            - generic [ref=e353]: m
+          - generic [ref=e354]:
+            - generic [ref=e355]: t
+            - generic [ref=e356]: o
+          - generic [ref=e357]:
+            - generic [ref=e358]: e
+            - generic [ref=e359]: "n"
+            - generic [ref=e360]: h
+            - generic [ref=e361]: a
+            - generic [ref=e362]: "n"
+            - generic [ref=e363]: c
+            - generic [ref=e364]: e
+          - generic [ref=e365]:
+            - generic [ref=e366]: t
+            - generic [ref=e367]: h
+            - generic [ref=e368]: e
+          - generic [ref=e369]:
+            - generic [ref=e370]: v
+            - generic [ref=e371]: a
+            - generic [ref=e372]: l
+            - generic [ref=e373]: u
+            - generic [ref=e374]: e
+          - generic [ref=e375]:
+            - generic [ref=e376]: o
+            - generic [ref=e377]: f
+          - generic [ref=e378]:
+            - generic [ref=e379]: s
+            - generic [ref=e380]: u
+            - generic [ref=e381]: s
+            - generic [ref=e382]: t
+            - generic [ref=e383]: a
+            - generic [ref=e384]: i
+            - generic [ref=e385]: "n"
+            - generic [ref=e386]: a
+            - generic [ref=e387]: b
+            - generic [ref=e388]: i
+            - generic [ref=e389]: l
+            - generic [ref=e390]: i
+            - generic [ref=e391]: t
+            - generic [ref=e392]: "y"
+            - generic [ref=e393]: .
+    - generic [ref=e394]:
+      - paragraph [ref=e399]:
+        - generic [ref=e400]:
+          - generic [ref=e401]: S
+          - generic [ref=e402]: A
+          - generic [ref=e403]: M
+          - generic [ref=e404]: S
+          - generic [ref=e405]: U
+          - generic [ref=e406]: "N"
+          - generic [ref=e407]: G
+        - generic [ref=e408]:
+          - generic [ref=e409]: E
+          - generic [ref=e410]: "&"
+          - generic [ref=e411]: A
+          - generic [ref=e412]: ’
+          - generic [ref=e413]: s
+        - generic [ref=e414]:
+          - generic [ref=e415]: L
+          - generic [ref=e416]: i
+          - generic [ref=e417]: v
+          - generic [ref=e418]: e
+          - generic [ref=e419]: s
+      - generic [ref=e422]:
+        - list [ref=e425]:
+          - listitem [ref=e426]:
+            - button "EPC Insight" [ref=e427] [cursor=pointer]
+          - listitem [ref=e428]:
+            - button "E&A Inside" [ref=e429] [cursor=pointer]
+          - listitem [ref=e430]:
+            - button "Enabling ESG" [ref=e431] [cursor=pointer]
+        - generic [ref=e436]:
+          - link [ref=e438] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e440] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e442] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e444] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e446] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e448] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e450] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e452] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e454] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e456] [cursor=pointer]:
+            - /url: javascript:;
+  - generic [ref=e460]:
+    - generic [ref=e462]:
+      - link "Privacy Policy" [ref=e464] [cursor=pointer]:
+        - /url: /en/privacy
+        - strong [ref=e465]: Privacy Policy
+      - link "Refusal of collection of email addresses" [ref=e467] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "Guide for the Operation and Management of Image Data Processing Devices" [ref=e469] [cursor=pointer]:
+        - /url: /en/cctv
+      - link "Your Message" [ref=e471] [cursor=pointer]:
+        - /url: /en/contact-us
+      - link "Sitemap" [ref=e473] [cursor=pointer]:
+        - /url: /en/site-map
+      - link "Legal Notice" [ref=e475] [cursor=pointer]:
+        - /url: /en/legal-notice
+      - link "Security Report Center" [ref=e477] [cursor=pointer]:
+        - /url: /en/security-report
+      - link "Report an Issue" [ref=e479] [cursor=pointer]:
+        - /url: http://www.audit.samsungena.com
+      - link "Partner Portal" [ref=e481] [cursor=pointer]:
+        - /url: https://partner.samsungena.co.kr
+      - link "Project Portal" [ref=e483] [cursor=pointer]:
+        - /url: https://project.samsungena.co.kr
+      - link "Visitor Registration" [ref=e485] [cursor=pointer]:
+        - /url: https://enself.v-pass.net:8097/
+    - generic [ref=e486]:
+      - generic [ref=e488]:
+        - link "Youtube" [ref=e489] [cursor=pointer]:
+          - /url: https://www.youtube.com/@Samsungena
+          - generic [ref=e490]: Youtube
+        - link "Facebook" [ref=e491] [cursor=pointer]:
+          - /url: https://www.facebook.com/SAMSUNGEnA
+          - generic [ref=e492]: Facebook
+        - link "Linkedin" [ref=e493] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/samsungena
+          - generic [ref=e494]: Linkedin
+        - link "Ecogeneration" [ref=e495] [cursor=pointer]:
+          - /url: https://tunza.eco-generation.org/default.jsp
+          - generic [ref=e496]: Ecogeneration
+      - generic [ref=e497]:
+        - link "SAMSUNG E&A" [ref=e498] [cursor=pointer]:
+          - /url: /en/
+          - generic [ref=e499]: SAMSUNG E&A
+        - generic [ref=e500]:
+          - paragraph [ref=e501]: SAMSUNG E&A, 26, Sangil-ro 6-gil, Gangdong-gu, Seoul, Korea Tel +82-2-2053-3000
+          - paragraph [ref=e502]: Copyright ⓒ SAMSUNG E&A All rights reserved.
