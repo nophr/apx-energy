@@ -1,3 +1,5 @@
+import { ChevronDown } from 'lucide-react'
+
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center pt-20 overflow-hidden">
@@ -66,9 +68,7 @@ export default function Hero() {
         className="scroll-hint group absolute bottom-8 left-1/2 -translate-x-1/2 z-20 flex flex-col items-center gap-1 text-white/40 hover:text-white focus-visible:text-white transition-colors cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-white/60 rounded-lg px-3 py-2"
       >
         <span className="text-xs tracking-widest uppercase">Scroll</span>
-        <svg className="w-4 h-4 animate-bounce group-hover:translate-y-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-        </svg>
+        <ChevronDown className="w-4 h-4 animate-bounce group-hover:translate-y-0.5 transition-transform" />
       </a>
     </section>
   )
